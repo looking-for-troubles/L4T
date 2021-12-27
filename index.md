@@ -70,13 +70,15 @@ La matrice dei dataset ha dimensione nx3.
 - La seconda colonna rappresenta i tempi di arrivo degli allarmi che prima di essere caricati nel DB subiscono una normalizzazione
 - La terza colonna rappresenta l’ordine di arrivo della sequenza degli allarmi
 
-
+![fig5](/slide/fig5.png)
 
 ## Matrice dei pesi
 La matrice dei pesi è aggiornata dal feedback durante l’addestramento della rete di apprendimento automatico ed ha dimensione nx3.
 - La prima colonna della matrice rappresenta i pesi degli allarmi
 - La seconda colonna rappresenta i pesi del tempo di arrivo della sequenza degli allarmi
 - La terza colonna rappresenta i pesi dell’ordine di arrivo della sequenza degli allarmi
+
+![fig6](/slide/fig6.png)
 
 
 
