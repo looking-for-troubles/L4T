@@ -37,6 +37,9 @@ Di seguito è discussa una possibile applicazione di una spirale aurea da instal
 ## Video di presentazione del progetto
 **under construction**
 
+## Chatterbot con Telegram
+Per poter interagire con la chat del manutentore occorre cercare su Telegram @incercadiguai_bot
+Digitando i numeri da 1 a 7 che semplicemente rappresentano i codici di guasto riconosciuti in fase di addestramento del PLC, è possibile ricevere le informazioni circa il ripristino del guasto. Naturalmente i video caricati hanno valenza didattica. In uno scenario industriale tali video dovrebbero essere disponibili in fase di progettazione direttamente dal software Digital Twin come ad esempio NX di Siemens. 
 
 ## Matrice dei pesi.
 La matrice dei pesi è aggiornata dal feedback durante l’addestramento della rete neurale ed ha dimensione nx3.
