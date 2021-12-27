@@ -60,6 +60,9 @@ Digitando i numeri da 1 a 7, che semplicemente rappresentano i codici di guasto 
 
 # Abbecedario matematico
 Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens
+La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli ingressi o matrice di dataset, passando per la funzione logaritmica fino alla retroazione di aggiornamento dei pesi
+
+![fig4](/slide/fig4.png)
 
 ## Matrice dei pesi
 La matrice dei pesi è aggiornata dal feedback durante l’addestramento della rete di apprendimento automatico ed ha dimensione nx3.
