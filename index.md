@@ -29,6 +29,20 @@ A prima vista le tre impronte sembrano uguali ma osservando attentamente si poss
 Durante la fase di addestramento sono determinati i pesi della funzione per ogni dataset di guasto.
 Durante la fase di riconoscimento è valutata sul piano la posizione del nuovo dataset ed associato al punto di guasto piu’ vicino. 
 
+![fig3](/slide/fig3.png)
+
+Nel caso di figura il modello propone al manutentore il video-tutorial relativo alla riparazione del guasto 3. Se la previsione non è confermata, il sistema propone il video-tutorial del guasto 2. In questo caso è possibile correggere i pesi addestrando il modello tenendo conto del nuovo scenario.
+Di seguito è discussa una possibile applicazione di una spirale aurea da installare su un PLC S7 1500 per l’individuazione dell’impronta dell’origine del guasto da comunicare al manutentore.
+
+## Video di presentazione del progetto
+**under construction**
+
+
+## Matrice dei pesi.
+La matrice dei pesi è aggiornata dal feedback durante l’addestramento della rete neurale ed ha dimensione nx3.
+La prima colonna della matrice rappresenta i pesi degli allarmi
+La seconda colonna rappresenta i pesi del tempo di arrivo della sequenza degli allarmi
+La terza colonna rappresenta i pesi dell’ordine di arrivo della sequenza degli allarmi
 
 
 
