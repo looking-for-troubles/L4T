@@ -22,6 +22,9 @@ Possiamo pensare di rappresentare questo ragionamento con una serie di immagini 
 
 ![fig1](/slide/fig1.png)
 
+A prima vista le tre impronte sembrano uguali ma osservando attentamente si possono notare leggere differenze. In questo caso il riconoscimento dell’immagine può essere affidato ad un sistema esperto, previo addestramento, come ad esempio una funzione retro-azionata che aggiorna i pesi proprio come fa una rete neurale. Chiameremo tali “matrici luminose”, matrici dataset. Per spiegare meglio l’idea è possibile fare ricorso alla seguente rappresentazione grafica 
+
+
 
 
 ## Welcome to GitHub Pages
