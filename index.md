@@ -24,6 +24,11 @@ Possiamo pensare di rappresentare questo ragionamento con una serie di immagini 
 
 A prima vista le tre impronte sembrano uguali ma osservando attentamente si possono notare leggere differenze. In questo caso il riconoscimento dell’immagine può essere affidato ad un sistema esperto, previo addestramento, come ad esempio una funzione retro-azionata che aggiorna i pesi proprio come fa una rete neurale. Chiameremo tali “matrici luminose”, matrici dataset. Per spiegare meglio l’idea è possibile fare ricorso alla seguente rappresentazione grafica 
 
+![fig2](/slide/fig2.png)
+
+Durante la fase di addestramento sono determinati i pesi della funzione per ogni dataset di guasto.
+Durante la fase di riconoscimento è valutata sul piano la posizione del nuovo dataset ed associato al punto di guasto piu’ vicino. 
+
 
 
 
