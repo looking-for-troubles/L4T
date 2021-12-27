@@ -20,7 +20,7 @@ Ora se l'impronta lasciata da questo evento (per impronta si intende la sequenza
 Se invece l’impronta dell’evento cambia leggermente di volta in volta pur essendo la causa scatenante la stessa, allora l’impiego di una rete neurale installata direttamente sul PLC può essere una valida alternativa per l’individuazione del guasto.
 Possiamo pensare di rappresentare questo ragionamento con una serie di immagini composte da matrici luminose dove ogni luce rappresenta la sequenza e la durata dei bit che intervengono a seguito del guasto.
 
-[fig1](/slide/fig1.png)
+![fig1](/slide/fig1.png)
 
 
 
