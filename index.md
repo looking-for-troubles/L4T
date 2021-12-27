@@ -64,6 +64,14 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 
 ![fig4](/slide/fig4.png)
 
+## Matrice dei dataset
+La matrice dei dataset ha dimensione nx3.
+- La prima colonna della matrice rappresenta lo stato degli allarmi in termini booleani 
+- La seconda colonna rappresenta i tempi di arrivo degli allarmi che prima di essere caricati nel DB subiscono una normalizzazione
+- La terza colonna rappresenta l’ordine di arrivo della sequenza degli allarmi
+
+
+
 ## Matrice dei pesi
 La matrice dei pesi è aggiornata dal feedback durante l’addestramento della rete di apprendimento automatico ed ha dimensione nx3.
 - La prima colonna della matrice rappresenta i pesi degli allarmi
