@@ -83,7 +83,7 @@ La matrice dei pesi è aggiornata dal feedback durante l’addestramento della r
 ## Funzione “z” o ∅(z)
 Un tipo di guasto riconducibile alla matrice dei dataset e dei pesi è individuabile attraverso la seguente relazione
 
-
+![fig7](/slide/fig7.png)
 
 Operativamente la matrice dei dataset x^(n×3) è proiettata attraverso la trasposta matrice dei pesi W^(3×n) secondo la relazione W^T∙x=Z  in uno spazio 3x3. 
 
