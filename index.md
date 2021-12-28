@@ -1,7 +1,7 @@
 # Olimpiadi Automazione Siemens 2022
 Progetto Looking For Troubles "L4T"
 Realizzato in collaborazione tra:
-- <b> [E.Fermi-G.Giorgi Lucca](https://www.polofermigiorgi.edu.it/) </b>
+- <b> [Fermi-Giorgi Lucca](https://www.polofermigiorgi.edu.it/) </b>
 - <b> [Galilei-Artiglio Viareggio](http://www.iisgalileiartiglio.edu.it/) </b>
 - <b> [Koerber Tissue](https://www.koerber-tissue.com/it/) </b>
 
