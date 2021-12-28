@@ -130,5 +130,4 @@ Sostituendo si ha
 
 ![fig18](/slide/fig18.png)
 
-
-... to be continued 
+che costituiscono gli aggiornamenti dei pesi a seguito del feedback
