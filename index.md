@@ -102,7 +102,14 @@ La spirale logaritmica ![fig10](/slide/fig10.png) è utilizzata nel feedback per
 
 dove Y rappresenta il termine noto per l’addestramento ed è, in questo contesto, il modulo relativo al tipo di guasto che giace sulla traiettoria della spirale logaritmica
 
-Posto a=1 e ![fig12](/slide/fig12.png) e  ![fig13](/slide/fig13.png) la variazione dei pesi (derivata parziale) della spirale logaritmica sarà
+Posto 
+![fig12](/slide/fig12.png) 
+
+e  
+
+![fig13](/slide/fig13.png) 
+
+la variazione dei pesi (derivata parziale) della spirale logaritmica sarà
 
 ![fig14](/slide/fig14.png)
 
