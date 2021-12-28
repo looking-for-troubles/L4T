@@ -85,7 +85,7 @@ Un tipo di guasto riconducibile alla matrice dei dataset e dei pesi è individua
 
 ![fig7](/slide/fig7.png)
 
-Operativamente la matrice dei dataset x^(n×3) è proiettata attraverso la trasposta matrice dei pesi W^(3×n) secondo la relazione W^T∙x=Z  in uno spazio 3x3. 
+Operativamente la matrice dei dataset x (nx3) è proiettata attraverso la trasposta matrice dei pesi W (3×n) secondo la relazione W^T∙x=Z  in uno spazio 3x3. 
 
 Della matrice risultante Z è calcolata la somma della diagonale principale che costituisce l’input di rete
 
