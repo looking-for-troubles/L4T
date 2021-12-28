@@ -3,7 +3,7 @@ Progetto Looking For Troubles "L4T"
 Realizzato in collaborazione tra:
 - <b> [Fermi-Giorgi Lucca](https://www.polofermigiorgi.edu.it/) </b>
 - <b> [Galilei-Artiglio Viareggio](http://www.iisgalileiartiglio.edu.it/) </b>
-- <b> [Koerber Tissue](https://www.koerber-tissue.com/it/) </b>
+- <b> [Koerber Tissue Lucca](https://www.koerber-tissue.com/it/) </b>
 
 
 ## Finalità
