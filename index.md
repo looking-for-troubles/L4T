@@ -95,5 +95,9 @@ La matrice x di dataset è anch’essa proiettata in uno spazio 3x3 attraverso i
 
 ![fig9](/slide/fig9.png)
 
+## Aggiornamento dei pesi
+La spirale logaritmica  
+
+
 
 ... to be continued 
