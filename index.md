@@ -93,6 +93,7 @@ Della matrice risultante Z è calcolata la somma della diagonale principale che 
 
 La matrice x di dataset è anch’essa proiettata in uno spazio 3x3 attraverso il prodotto con la sua trasposta. Il calcolo del valore assoluto del determinante della nuova matrice associa il volume di guasto nello spazio 3x3 della matrice stessa
 
+![fig9](/slide/fig9.png)
 
 
 ... to be continued 
