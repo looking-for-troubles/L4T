@@ -96,8 +96,30 @@ La matrice x di dataset è anch’essa proiettata in uno spazio 3x3 attraverso i
 ![fig9](/slide/fig9.png)
 
 ## Aggiornamento dei pesi
-La spirale logaritmica  
+La spirale logaritmica ![fig10](/slide/fig10.png) è utilizzata nel feedback per la stima dei pesi, mentre la funzione di costo da minimizzare è
 
+![fig11](/slide/fig11.png)
 
+dove Y rappresenta il termine noto per l’addestramento ed è, in questo contesto, il modulo relativo al tipo di guasto che giace sulla traiettoria della spirale logaritmica
+
+Posto a=1 e ![fig12](/slide/fig12.png) e  ![fig13](/slide/fig13.png) la variazione dei pesi (derivata parziale) della spirale logaritmica sarà
+
+![fig14](/slide/fig14.png)
+
+Applicando il metodo della discesa del gradiente sulla funzione di costo per la ricerca dei pesi si ha
+
+![fig15](/slide/fig15.png)
+
+Il cambiamento del peso è definito come il gradiente negativo moltiplicato il tasso di apprendimento 
+
+![fig16](/slide/fig16.png)
+
+Sostituendo si ha
+
+![fig17](/slide/fig17.png)
+
+![fig18](/slide/fig18.png)
+
+![fig19](/slide/fig19.png)
 
 ... to be continued 
