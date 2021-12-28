@@ -131,3 +131,6 @@ Sostituendo si ha
 ![fig18](/slide/fig18.png)
 
 che costituiscono gli aggiornamenti dei pesi a seguito del feedback
+
+## Caso Studio
+.. in progress
