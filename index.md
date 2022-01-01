@@ -63,6 +63,9 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 
 ![fig4](/slide/fig4.png)
 
+## Spirale Logaritmica
+Prima di affrontare l'aspetto matematico 
+
 ## Matrice dei dataset
 La matrice dei dataset ha dimensione nx3.
 - La prima colonna della matrice rappresenta lo stato degli allarmi in termini booleani 
