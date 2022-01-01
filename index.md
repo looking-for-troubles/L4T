@@ -68,11 +68,11 @@ Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità 
 
 <img src="/slide/f10.png" width="300" height="300" />
 
-Nella figura seguente sono indicati due stati distinti che differiscono di circa un angolo giro
+Gli stati noti di seguito rappresentati differiscono di circa un angolo giro
 
 <img src="/slide/f11.png" width="300" height="300" />
 
-Se I due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno agli stato di guasto noti afferenti alle curve g e f
+Se i due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno agli stato di guasto noti afferenti alle curve g e f
 
 <img src="/slide/f12.png" width="300" height="300" />
 
