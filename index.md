@@ -68,7 +68,7 @@ Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità 
 
 ![f10](/slide/f10.png)
 
-Nella figura seguente sono indicati due stati distinti che differiscono di un angolo
+Nella figura seguente sono indicati due stati distinti che differiscono circa di un angolo giro
 
 ![f11](/slide/f11.png)
 
