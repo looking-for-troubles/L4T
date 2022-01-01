@@ -66,16 +66,15 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 ## Spirale Logaritmica
 Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato. Nella figura seguente la sezione in colore azzurro rappresenta il campo di esistenza compreso tra 0 e multipli di due volte pigreco 
 
-<img src="/slide/f10.png" width="200" height="200" />
+<img src="/slide/f10.png" width="300" height="300" />
 
 Nella figura seguente sono indicati due stati distinti che differiscono di circa un angolo giro
 
-![f11](/slide/f11.png)
+<img src="/slide/f11.png" width="300" height="300" />
 
 Se I due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno agli stato di guasto noti afferenti alle curve g e f
 
-![f12](/slide/f12.png)
-
+<img src="/slide/f12.png" width="300" height="300" />
 
 ## Matrice dei dataset
 La matrice dei dataset ha dimensione nx3.
