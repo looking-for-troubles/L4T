@@ -72,6 +72,7 @@ Nella figura seguente sono indicati due stati distinti che differiscono di circa
 
 ![f11](/slide/f11.png)
 
+Se 
 
 
 ## Matrice dei dataset
