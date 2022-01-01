@@ -64,7 +64,12 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 ![fig4](/slide/fig4.png)
 
 ## Spirale Logaritmica
-Prima di affrontare l'aspetto matematico 
+Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato 
+
+![fig10](/slide/fig10.png)
+
+
+
 
 ## Matrice dei dataset
 La matrice dei dataset ha dimensione nx3.
