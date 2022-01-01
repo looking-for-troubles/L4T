@@ -66,11 +66,11 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 ## Spirale Logaritmica
 Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato 
 
-![fig10](/slide/fig10.png)
+![f10](/slide/f10.png)
 
 Nella figura seguente sono indicati due stati distinti che differiscono di un angolo
 
-![fig11](/slide/fig11.png)
+![f11](/slide/f11.png)
 
 
 ## Matrice dei dataset
