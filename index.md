@@ -72,7 +72,9 @@ Nella figura seguente sono indicati due stati distinti che differiscono di circa
 
 ![f11](/slide/f11.png)
 
-Se 
+Se I due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno agli stato di guasto noti afferenti alle curve g1 e f1
+
+![f12](/slide/f12.png)
 
 
 ## Matrice dei dataset
