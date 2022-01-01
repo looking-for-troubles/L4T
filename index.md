@@ -68,7 +68,9 @@ Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità 
 
 ![fig10](/slide/fig10.png)
 
+Nella figura seguente sono indicati due stati distinti che differiscono di un angolo
 
+![fig11](/slide/fig11.png)
 
 
 ## Matrice dei dataset
