@@ -33,4 +33,6 @@ Da qui l'idea di realizzare un sistema che potesse essere addestrato anche succe
 ## Addestramento Guasto 1A
 Supponiamo di avere un dataset di 12 elementi e di dover addestrare altrettanti pesi. Prendiamo a riferimento il seguente dataset per il guasto 1A, intendendo che il numero zero si riferisce ad uno stato d'allarme (sensore, reè ecc) non commutato e dunque il relativo tempo di arrivo sarà anch'esso mancante
 
+<img src="/slide/m3.png" width="450" height="300" />
+
 
