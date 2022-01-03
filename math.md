@@ -15,5 +15,12 @@ I campi azzurri non sono accessibili al manutentore e rappresentano:
 - il modulo del vettore che incontra il punto sulla spirale logaritmica associato a quel guasto ricalcolato dal modello
 - l'angolo del mudulo del vettore 
 
-I pulsanti giallo-oro rappresentano i database nei quali sono memorizzati i pesi addestrati. La memorizzazione avviene alla pressione touch del rispettivo pulsante. Trattandosi di un esempio grafico descrittivo sono stati presi a riferimento tre soli guasti ovvero tre database inducati con i numeri 1A, 2B e 3C
+I pulsanti giallo-oro rappresentano i database nei quali sono memorizzati i pesi addestrati. La memorizzazione avviene alla pressione touch del rispettivo pulsante. Trattandosi di un esempio grafico descrittivo sono stati presi a riferimento tre soli guasti ovvero tre database inducati con i numeri:
+- 1A
+- 2B
+- 3C
+
+I tre stati di guasto appartengono alla spirale logaritmica e sono individuati nell'immagine seguente con i punti U, W e H. Per questi punti sono individuati i moduli dei vettori ed i rispettivi angoli sul piano polare. I moduli saranno utilizzati per l'addestramento del modello. 
+
+<img src="/slide/m2.png" width="420" height="300" />
 
