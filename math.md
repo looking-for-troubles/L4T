@@ -35,4 +35,6 @@ Supponiamo di avere un dataset di 12 elementi e di dover addestrare altrettanti 
 
 <img src="/slide/m3.png" width="100" height="300" />
 
+Dopo aver inizializzato i pesi in modo random con numeri "piccoli" ed aver inserito il valore del modulo pari a 1.32 relativo al giasto 1A, il modello fornisce la risposta di figura che viene salvata nel rispettivo database
 
+<img src="/slide/m4.png" width="450" height="300" />
