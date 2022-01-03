@@ -68,6 +68,10 @@ Proviamo adesso a "muovere" i valori del dataset del guasto 3C, supponendo di mo
 
 <img src="/slide/m10.png" width="450" height="300" />
 
+L'impronta del guasto 3C seppure leggermente differente è "riconosciuta" dal modello
+
+
+
 
 
 
