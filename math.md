@@ -5,7 +5,7 @@ Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In alt
 
 <img src="/slide/m1.png" width="450" height="300" />
 
-I campi bianchi sono accessibili dal manutentore che può caricare con numeri reali che rappresentano in ordine da sinistyra verso destra:
+I campi bianchi sono accessibili dal manutentore che può caricare con numeri reali che rappresentano in ordine da sinistra verso destra:
 - il dataset o l'impronta del guasto
 - il modulo del vettore sulla spirale logaritmica associato a quel guasto
 
