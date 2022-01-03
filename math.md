@@ -3,7 +3,7 @@ In questa sezione sono raccolti gli argomenti principali del modello spiegati pe
 ## Dal dataset alla matrice dei pesi
 Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In altre parole supponiamo di essere il manutentore che a seguito di un guasto rilevato addestra il modello al fine di permetterne il riconoscimento in automatico a seguito di un evento successivo
 
-<img src="/slide/m1.png" width="420" height="300" />
+<img src="/slide/m1.png" width="450" height="300" />
 
 I campi bianchi sono accessibili dal manutentore che può caricare con numeri reali che rappresentano in ordine da sinistyra verso destra:
 - il dataset o l'impronta del guasto
@@ -22,5 +22,5 @@ I pulsanti giallo-oro rappresentano i database nei quali sono memorizzati i pesi
 
 I tre stati di guasto appartengono alla spirale logaritmica e sono individuati nell'immagine seguente con i punti U, W e H. Per questi punti sono individuati i moduli dei vettori ed i rispettivi angoli sul piano polare. I moduli saranno utilizzati per l'addestramento del modello. 
 
-<img src="/slide/m2.png" width="420" height="300" />
+<img src="/slide/m2.png" width="450" height="300" />
 
