@@ -25,7 +25,8 @@ I tre stati di guasto appartengono alla spirale logaritmica e sono individuati n
 <img src="/slide/m2.png" width="450" height="300" />
 
 Quello che vorremmo capire è quanto è capace il modello di riconoscere il guasto a seguito di "leggere" modifiche del dataset. Ricordiamo infatti che ogni dataset ha una propria impronta e che lo stesso guasto presenta dataset diversi a seguito ad esempio dei tempi di arrivo degli allarmi che non potranno mai essere tutti esattamente dello stesso valore.
-Tuttavia anche due guasti differenti hanno dataset differenti per cui in questo caso il modelllo non dovrà confondersi assegnando ai due eventi codici di guasto uguali.
+Tuttavia anche due guasti differenti hanno dataset differenti per cui in questo caso il modello non dovrà confondersi assegnando ai due eventi codici di guasto uguali.
+
 Prima di iniziare la simulazione si fa notare al lettore che stiamo addestrando il modello attraverso un solo dataset noto per il guasto 1, il guasto 2 ed il guasto 3. In realtà sappiamo bene che per ottenere dei buoni risultati con sistemi di apprendimento artificiale (e non solo) abbiamo bisogno di molti dataset. Questo non è sempre possibile, almento per impronte di guasto di macchine industriali complesse.
 Da qui l'idea di realizzare un sistema che potesse essere addestrato anche successivamente dal manutentore in modo da costruire dei database dei pesi nel tempo migliorando le predizioni del sistema.
 
