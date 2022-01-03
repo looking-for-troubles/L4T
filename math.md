@@ -4,3 +4,9 @@ In questa sezione sono raccolti gli argomenti principali del modello spiegati pe
 Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In altre parole supponiamo di essere il manutentore che a seguito di un guasto rilevato addestra il modello al fine di permetterne il riconoscimento in automatico a seguito di un evento successivo
 
 <img src="/slide/m1.png" width="300" height="400" />
+
+I campi bianchi sono accessibili dal manutentore che può caricare con numeri reali che rappresentano in ordine da sinistyra verso destra:
+- il dataset o l'impronta del guasto
+- il modulo della spirale aurea associato a quel guasto
+
+
