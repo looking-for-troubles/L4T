@@ -3,7 +3,7 @@ In questa sezione sono raccolti gli argomenti principali del modello spiegati pe
 ## Dal dataset alla matrice dei pesi
 Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In altre parole supponiamo di essere il manutentore che a seguito di un guasto rilevato addestra il modello al fine di permetterne il riconoscimento in automatico per un evento successivo
 
-<img src="/slide/m1.png" width="10" height="100" />
+<img src="/slide/m1.png" width="450" height="300" />
 
 I campi bianchi sono accessibili dal manutentore che può caricare con numeri reali che rappresentano in ordine da sinistra verso destra:
 - il dataset o l'impronta del guasto
@@ -33,6 +33,6 @@ Da qui l'idea di realizzare un sistema che potesse essere addestrato anche succe
 ## Addestramento Guasto 1A
 Supponiamo di avere un dataset di 12 elementi e di dover addestrare altrettanti pesi. Prendiamo a riferimento il seguente dataset per il guasto 1A, intendendo che il numero zero si riferisce ad uno stato d'allarme (sensore, reè ecc) non commutato e dunque il relativo tempo di arrivo sarà anch'esso mancante
 
-<img src="/slide/m3.png" width="450" height="300" />
+<img src="/slide/m3.png" width="20" height="300" />
 
 
