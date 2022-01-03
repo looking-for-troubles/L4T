@@ -7,6 +7,12 @@ Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In alt
 
 I campi bianchi sono accessibili dal manutentore che può caricare con numeri reali che rappresentano in ordine da sinistyra verso destra:
 - il dataset o l'impronta del guasto
-- il modulo della spirale aurea associato a quel guasto
+- il modulo del vettore sulla spirale logaritmica associato a quel guasto
 
+I campi azzurri non sono accessibili al manutentore e rappresentano:
+- i pesi calcolati dal modello
+- la diagonale della matrice quadrata
+- il modulo del vettore che incontra il punto sulla spirale logaritmica associato a quel guasto ricalcolato dal modello
+- l'angolo del mudulo del vettore 
 
+I campi giallo-oro rappresentano i database nei quali sono memorizzati i pesi addestrati. Trattandosi di un esempio grafico descrittivo sono stati presi a riferimento tre soli guasti ovvero tre database inducati con i numeri 1A, 2B e 3C
