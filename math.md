@@ -45,7 +45,7 @@ Supponiamo che per il guasto 2B sia
 
 <img src="/slide/m5.png" width="450" height="300" />
 
-E per il guasto 2C 
+E per il guasto 3C 
 
 <img src="/slide/m6.png" width="450" height="300" />
 
