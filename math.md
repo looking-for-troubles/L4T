@@ -30,7 +30,7 @@ Tuttavia anche due guasti differenti hanno dataset differenti per cui in questo 
 Prima di iniziare la simulazione si fa notare al lettore che stiamo addestrando il modello attraverso un solo dataset noto per il guasto 1, il guasto 2 ed il guasto 3. In realtà sappiamo bene che per ottenere dei buoni risultati con sistemi di apprendimento artificiale (e non solo) abbiamo bisogno di molti dataset. Questo non è sempre possibile, almento per impronte di guasto di macchine industriali complesse.
 Da qui l'idea di realizzare un sistema che potesse essere addestrato anche successivamente dal manutentore in modo da costruire dei database dei pesi nel tempo migliorando le predizioni del sistema.
 
-## Addestramento Guasto 1A
+## Addestramento Guasti
 Supponiamo di avere un dataset di 12 elementi e di dover addestrare altrettanti pesi. Prendiamo a riferimento il seguente dataset per il guasto 1A, intendendo che il numero zero si riferisce ad uno stato d'allarme (sensore, reè ecc) non commutato e dunque il relativo tempo di arrivo sarà anch'esso mancante
 
 <img src="/slide/m3.png" width="100" height="300" />
@@ -47,4 +47,24 @@ Supponiamo che per il guasto 2B sia
 
 E per il guasto 2C 
 
-<img src="/slide/m5.png" width="450" height="300" />
+<img src="/slide/m6.png" width="450" height="300" />
+
+## Riconoscimento Guasti
+Addestrati i pesi si passa adesso al riconoscimento delle impronte di guasto. Per semplicità e per riprova del caricamento corretto dei pesi nei rispettivi database, inizialmente sottoponiamo al modello i dataset di addestramento
+
+<img src="/slide/m7.png" width="450" height="300" />
+
+risposta corretta per il guasto 1A
+
+<img src="/slide/m8.png" width="450" height="300" />
+
+risposta corretta per il guasto 2B
+
+<img src="/slide/m9.png" width="450" height="300" />
+
+risposta corretta per il guasto 3C
+
+
+
+
+
