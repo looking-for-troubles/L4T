@@ -38,3 +38,13 @@ Supponiamo di avere un dataset di 12 elementi e di dover addestrare altrettanti 
 Dopo aver inizializzato i pesi in modo random con numeri "piccoli" ed aver inserito il valore del modulo pari a 1.32 relativo al giasto 1A, il modello fornisce la risposta di figura che viene salvata nel rispettivo database
 
 <img src="/slide/m4.png" width="450" height="300" />
+
+Nello stesso modo carichiamo i guasti 2B e 3C modificando i rispettivi dataset e moduli relativi ai punti W ed H.
+
+Supponiamo che per il guasto 2B sia 
+
+<img src="/slide/m5.png" width="450" height="300" />
+
+E per il guasto 2C 
+
+<img src="/slide/m5.png" width="450" height="300" />
