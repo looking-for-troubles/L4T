@@ -144,6 +144,8 @@ Sostituendo si ha
 
 che costituiscono gli aggiornamenti dei pesi a seguito del feedback
 
+Per i piu' curiosi o per quelli che non sono rimasti molto convinti dei contenuti dell'abbecedario, si rimanda alla lettura di [questa pagina](/math.md)
+
 ## Caso Studio
 .. in progress
 
