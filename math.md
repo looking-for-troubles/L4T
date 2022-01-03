@@ -15,4 +15,5 @@ I campi azzurri non sono accessibili al manutentore e rappresentano:
 - il modulo del vettore che incontra il punto sulla spirale logaritmica associato a quel guasto ricalcolato dal modello
 - l'angolo del mudulo del vettore 
 
-I campi giallo-oro rappresentano i database nei quali sono memorizzati i pesi addestrati. Trattandosi di un esempio grafico descrittivo sono stati presi a riferimento tre soli guasti ovvero tre database inducati con i numeri 1A, 2B e 3C
+I pulsanti giallo-oro rappresentano i database nei quali sono memorizzati i pesi addestrati. La memorizzazione avviene alla pressione touch del rispettivo pulsante. Trattandosi di un esempio grafico descrittivo sono stati presi a riferimento tre soli guasti ovvero tre database inducati con i numeri 1A, 2B e 3C
+
