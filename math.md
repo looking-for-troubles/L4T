@@ -64,6 +64,12 @@ risposta corretta per il guasto 2B
 
 risposta corretta per il guasto 3C
 
+Proviamo adesso a "muovere" i valori del dataset del guasto 3C, supponendo di modificare i tempi degli allarmi mantenendo inalterata la sequenza di arrivo
+
+<img src="/slide/m10.png" width="450" height="300" />
+
+
+
 
 
 
