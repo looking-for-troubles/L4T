@@ -82,7 +82,7 @@ Calcoliamo adesso il prodotto tra matrici ed estraiamo l'angolo dalla diagonale 
 
 Si ricorda che questa operazione non è altro che l'input di rete fornito al modello secondo il seguente schema
 
-<img src="/slide/fig4.png" width="450" height="300" />
+<img src="/slide/fig4.png" width="150" height="100" />
 
 
 
