@@ -102,7 +102,7 @@ Completiamo adesso il diagramma polare con gli ultimi risultati ottenuti
 
 <img src="/slide/m16.png" width="922" height="398" />
 
-Siamo prossimi ad una situazione limite con verso di rotazione antioraria che corrisponde ad un aumento dei tempi di arrivo degli allarmi. L'angolo beta infatti è prossimo all'angolo alfa 
+Siamo prossimi ad una situazione limite con verso di rotazione antioraria che corrisponde ad un aumento dei tempi di arrivo degli allarmi. L'angolo beta infatti è prossimo all'angolo alfa. L'angolo alfa rimane tuttavia il minore ed il modello è in grado di associare il codice guasto corretto
 
 <img src="/slide/m17.png" width="873" height="375" />
 
