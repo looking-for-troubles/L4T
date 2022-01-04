@@ -88,21 +88,23 @@ Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il ve
 
 <img src="/slide/m13.png" width="450" height="200" />
 
-Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B
+Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B. 
 
+<img src="/slide/m14.png" width="442" height="424" />
 
+L'angolo del guasto 
 
 Aumentiamo ulteriormente i tempi dei segnali di allarme. Stavolta il modello non riconosce il guasto che vorremmo attribuire al tipo 3C
 
-<img src="/slide/m14.png" width="450" height="300" />
+
 
 Ripetiamo i conti con Scilab ed otteniamo un angolo di circa 2.67 radianti
 
-<img src="/slide/m15.png" width="350" height="200" />
+
 
 Riportiamo di nuovo il risultato dell'operazione sul piano polare ed osserviamo che il vettore k 
 
-<img src="/slide/m16.png" width="450" height="200" />
+
 
 
 
