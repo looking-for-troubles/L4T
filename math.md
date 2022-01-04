@@ -78,11 +78,11 @@ Inseriamo quindi la matrice dataset e la matrice dei pesi e calcoliamone la tras
 
 Calcoliamo adesso il prodotto tra matrici ed estraiamo l'angolo dalla diagonale principale
 
-<img src="/slide/m12.png" width="450" height="300" />
+<img src="/slide/m12.png" width="350" height="200" />
 
 Si ricorda che questa operazione non è altro che l'input di rete fornito al modello secondo il seguente schema
 
-<img src="/slide/fig4.png" width="150" height="100" />
+<img src="/slide/fig4.png" width="150" height="150" />
 
 
 
