@@ -102,6 +102,14 @@ Completiamo adesso il diagramma polare con gli ultimi risultati ottenuti
 
 <img src="/slide/m16.png" width="922" height="398" />
 
+Siamo prossimi ad una situazione limite con verso di rotazione antioraria che corrisponde ad un aumento dei tempi di arrivo degli allarmi
+
+<img src="/slide/m17.png" width="873" height="375" />
+
+Proviamo adesso a cercare la situazione limite contraria riducendo il tempo di arrivo degli allarmi
+
+<img src="/slide/m18.png" width="873" height="375" />
+
 Aumentiamo ulteriormente i tempi dei segnali di allarme. Stavolta il modello non riconosce il guasto che vorremmo attribuire al tipo 3C
 
 
