@@ -110,7 +110,9 @@ Proviamo adesso a cercare la situazione limite contraria riducendo il tempo di a
 
 <img src="/slide/m18.png" width="873" height="375" />
 
-Aumentiamo ulteriormente i tempi dei segnali di allarme. Stavolta il modello non riconosce il guasto che vorremmo attribuire al tipo 3C
+Come nel caso precedente utilizziamo Scilab per posizionare i vettori nel piano
+
+<img src="/slide/m19.png" width="873" height="375" />
 
 
 
