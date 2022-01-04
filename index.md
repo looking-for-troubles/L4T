@@ -66,11 +66,11 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 ## Spirale Logaritmica
 Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato. Nella figura seguente la sezione in colore azzurro rappresenta il campo di esistenza compreso tra 0 e multipli di due volte pigreco 
 
-<img src="https://github.com/looking-for-troubles/L4T/edit/gh-pages/slide/f10.png" width="300" height="300" />
+<img src="https://github.com/looking-for-troubles/L4T/tree/gh-pages/slide/f10.png" width="300" height="300" />
 
 Gli stati noti di seguito rappresentati differiscono di circa un angolo giro
 
-<img src="https://github.com/looking-for-troubles/L4T/edit/gh-pages/slide/f11.png" width="300" height="300" />
+<img src="https://github.com/looking-for-troubles/L4T/tree/gh-pages/slide/f11.png" width="300" height="300" />
 
 Se i due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno agli stato di guasto noti afferenti alle curve g e f
 
