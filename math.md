@@ -88,9 +88,16 @@ Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il ve
 
 <img src="/slide/m13.png" width="450" height="200" />
 
-Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B. 
+Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B
+
+- Guasto 1A
 
 <img src="/slide/m14.png" width="442" height="424" />
+
+- Guasto 2B
+
+<img src="/slide/m15.png" width="442" height="424" />
+
 
 L'angolo del guasto 
 
