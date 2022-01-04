@@ -88,7 +88,7 @@ Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il ve
 
 <img src="/slide/m13.png" width="450" height="200" />
 
-Aumentiamo ulteriormente i tempi dei segnali di allarme
+Aumentiamo ulteriormente i tempi dei segnali di allarme. Stavolta il modello non riconosce il guasto che vorremmo attribuire al tipo 3C
 
 <img src="/slide/m14.png" width="450" height="300" />
 
@@ -96,6 +96,9 @@ Ripetiamo i conti con Scilab ed otteniamo un angolo di circa 2.67 radianti
 
 <img src="/slide/m15.png" width="350" height="200" />
 
+Riportiamo di nuovo il risultato dell'operazione sul piano polare ed osserviamo che il vettore k 
+
+<img src="/slide/m16.png" width="450" height="200" />
 
 
 
