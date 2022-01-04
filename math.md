@@ -72,7 +72,7 @@ L'impronta del guasto 3C seppure leggermente differente è riconosciuta dal mode
 
 Cerchiamo di capire meglio cosa è successo. Calcoliamo mediante [Scilab](https://www.scilab.org/) l'angolo generato dal prodotto tra la nuova matrice dataset e la matrice di addestramento dei pesi
 
-Inseriamo quindi la matrice dataset e la matrice dei pesi e calcoliamone la trasposta
+Inseriamo quindi la matrice dataset e la matrice dei pesi e calcoliamo la trasposta
 
 <img src="/slide/m11.png" width="450" height="300" />
 
