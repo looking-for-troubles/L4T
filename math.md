@@ -92,6 +92,10 @@ Aumentiamo ulteriormente i tempi dei segnali di allarme
 
 <img src="/slide/m14.png" width="450" height="300" />
 
+Ripetiamo i conti con Scilab ed otteniamo un angolo di circa 2.67 radianti
+
+<img src="/slide/m15.png" width="350" height="200" />
+
 
 
 
