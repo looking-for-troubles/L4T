@@ -90,11 +90,11 @@ Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il ve
 
 Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B
 
-- Guasto 1A
+- Guasto 2B
 
 <img src="/slide/m14.png" width="442" height="424" />
 
-- Guasto 2B
+- Guasto 1A
 
 <img src="/slide/m15.png" width="442" height="424" />
 
