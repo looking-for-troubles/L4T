@@ -88,6 +88,10 @@ Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il ve
 
 <img src="/slide/m13.png" width="450" height="200" />
 
+Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B
+
+
+
 Aumentiamo ulteriormente i tempi dei segnali di allarme. Stavolta il modello non riconosce il guasto che vorremmo attribuire al tipo 3C
 
 <img src="/slide/m14.png" width="450" height="300" />
