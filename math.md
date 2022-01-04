@@ -112,7 +112,9 @@ Proviamo adesso a cercare la situazione limite contraria riducendo il tempo di a
 
 Come nel caso precedente utilizziamo Scilab per posizionare i vettori nel piano
 
-<img src="/slide/m19.png" width="873" height="375" />
+- Guasto 3C
+
+<img src="/slide/m19.png" width="441" height="422" />
 
 
 
