@@ -22,7 +22,7 @@ I pulsanti giallo-oro rappresentano i database nei quali sono memorizzati i pesi
 
 I tre stati di guasto appartengono alla spirale logaritmica e sono individuati nell'immagine seguente con i punti U, W e H. Per questi punti sono individuati i moduli dei vettori ed i rispettivi angoli sul piano polare. I moduli saranno utilizzati per l'addestramento del modello. 
 
-<img src="/slide/m2.png" width="450" height="300" />
+<img src="/slide/m2.png" width="450" height="250" />
 
 Quello che vorremmo capire è quanto è capace il modello di riconoscere il guasto a seguito di "leggere" modifiche del dataset. Ricordiamo infatti che ogni dataset ha una propria impronta e che lo stesso guasto presenta dataset diversi a seguito ad esempio dei tempi di arrivo degli allarmi che non potranno mai essere tutti esattamente dello stesso valore.
 Tuttavia anche due guasti differenti hanno dataset differenti per cui in questo caso il modello non dovrà confondersi assegnando ai due eventi codici di guasto diversi.
