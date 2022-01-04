@@ -82,11 +82,11 @@ Calcoliamo infine il prodotto tra matrici ed estraiamo l'angolo dalla diagonale 
 
 Si ricorda che questa operazione non è altro che l'input di rete fornito al modello secondo il seguente schema
 
-<img src="/slide/fig4.png" width="200" height="150" />
+<img src="/slide/fig4.png" width="250" height="150" />
 
 Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il vettore k è prossimo al vettore h e quindi il modello associa il nuovo dataset al guasto 3C
 
-<img src="/slide/m13.png" width="450" height="300" />
+<img src="/slide/m13.png" width="450" height="200" />
 
 
 
