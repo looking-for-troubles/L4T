@@ -116,6 +116,11 @@ Come nel caso precedente utilizziamo Scilab per posizionare i vettori nel piano
 
 <img src="/slide/m19.png" width="441" height="422" />
 
+- Guasto 2B
+
+<img src="/slide/m20.png" width="441" height="422" />
+
+
 
 
 Ripetiamo i conti con Scilab ed otteniamo un angolo di circa 2.67 radianti
