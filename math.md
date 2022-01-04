@@ -100,7 +100,7 @@ Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B
 
 Completiamo adesso il diagramma polare con gli ultimi risultati ottenuti
 
-
+<img src="/slide/m16.png" width="1844" height="796" />
 
 Aumentiamo ulteriormente i tempi dei segnali di allarme. Stavolta il modello non riconosce il guasto che vorremmo attribuire al tipo 3C
 
