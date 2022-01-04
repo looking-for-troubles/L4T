@@ -76,7 +76,7 @@ Inseriamo quindi la matrice dataset e la matrice dei pesi e calcoliamone la tras
 
 <img src="/slide/m11.png" width="450" height="300" />
 
-Calcoliamo adesso il prodotto tra matrici ed estraiamo l'angolo dalla diagonale principale
+Calcoliamo infine il prodotto tra matrici ed estraiamo l'angolo dalla diagonale principale
 
 <img src="/slide/m12.png" width="350" height="200" />
 
@@ -84,7 +84,9 @@ Si ricorda che questa operazione non è altro che l'input di rete fornito al mod
 
 <img src="/slide/fig4.png" width="200" height="150" />
 
+Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il vettore k è prossimo al vettore h e quindi il modello associa il nuovo dataset al guasto 3C
 
+<img src="/slide/m13.png" width="450" height="300" />
 
 
 
