@@ -88,6 +88,10 @@ Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il ve
 
 <img src="/slide/m13.png" width="450" height="200" />
 
+Aumentiamo ulteriormente i tempi dei segnali di allarme
+
+<img src="/slide/m14.png" width="450" height="300" />
+
 
 
 
