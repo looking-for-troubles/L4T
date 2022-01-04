@@ -68,7 +68,7 @@ Proviamo adesso a "muovere" i valori del dataset del guasto 3C, supponendo di mo
 
 <img src="/slide/m10.png" width="450" height="300" />
 
-L'impronta del guasto 3C seppure leggermente differente è "riconosciuta" dal modello
+L'impronta del guasto 3C seppure leggermente differente è riconosciuta dal modello. La differenza consiste in un lieve aumento di alcuni valori dei segnali di allarme
 
 Cerchiamo di capire meglio cosa è successo. Calcoliamo mediante [Scilab](https://www.scilab.org/) il prodotto della matrice dataset Guasto 3C "mosso" con la matrice di addestramento dei pesi
 
