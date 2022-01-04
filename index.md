@@ -66,7 +66,7 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 ## Spirale Logaritmica
 Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato. Nella figura seguente la sezione in colore azzurro rappresenta il campo di esistenza compreso tra 0 e multipli di due volte pigreco 
 
-![f10](/slide/f10.png width="300" height="300")
+![f10](/slide/f10.png)
 
 Gli stati noti di seguito rappresentati differiscono di circa un angolo giro
 
