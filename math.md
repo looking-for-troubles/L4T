@@ -1,5 +1,5 @@
 # Rappresentazione grafica del modello con PLC Siemens S7 1500
-In questa sezione sono raccolti gli argomenti principali del modello spiegati tramite l'ausilio di immagini con lo scopo di chiarire meglio gli aspetti matematici trattati nell'[abbecedario](/index.md).
+In questa sezione sono raccolti gli argomenti principali del modello spiegati tramite l'ausilio di immagini con lo scopo di chiarire meglio gli aspetti matematici trattati nell'[abbecedario](/index.md)
 
 I valori numerici utilizzati sono del tutto generici dato che il modello nasce con lo scopo di poter essere adattato o meglio personalizzato sulla base dei guasti rilevati durante il funzionamento della macchina
 
