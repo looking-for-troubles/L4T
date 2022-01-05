@@ -111,7 +111,7 @@ Siamo prossimi ad una situazione limite. L'angolo beta infatti è prossimo all'a
 
 Proviamo adesso a cercare la situazione limite opposta riducendo il tempo di arrivo degli allarmi
 
-<img src="slide/m18.png" width="873" height="375">
+<img src="slide/m18.png" width="450" height="300">
 
 Come nel caso precedente utilizziamo Scilab per posizionare i vettori nel piano
 
