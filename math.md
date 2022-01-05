@@ -1,5 +1,7 @@
 # Rappresentazione grafica del modello e PLC S7 1500
-In questa sezione sono raccolti gli argomenti principali del modello spiegati per immagini con lo scopo di chiarire meglio gli aspetti matematici trattati nell'[abbecedario](/index.md)
+In questa sezione sono raccolti gli argomenti principali del modello spiegati tramite l'ausilio di immagini con lo scopo di chiarire meglio gli aspetti matematici trattati nell'[abbecedario](/index.md)
+I valori numerici utilizzati sono del tutto generici dato che il modello nasce con lo scopo di poter essere adattato o meglio personalizzato sulla base dei guasti rilevati durante il funzionamento della macchina
+
 ## Dal dataset alla matrice dei pesi
 Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In altre parole supponiamo di essere il manutentore che a seguito di un guasto rilevato addestra il modello al fine di permetterne il riconoscimento in automatico per un evento successivo
 
