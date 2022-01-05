@@ -129,3 +129,4 @@ Riportiamo i risultati sul piano polare
 <img src="slide/m22.png" width="754" height="371">
 
 Quello che si osserva è che per ogni addestramento di un *unico* dataset si ha a disposizione un settore all'interno del quale il modello effettua una predizione corretta. Il settore a cui fa riferimento il codice guasto può essere ampliato a seguito di un nuovo addestramento di un nuovo dataset. Questa attività può essere svolta all'occorrenza dal manutentore durante il ciclo di vita della macchina ed entrare a far parte di un database unico a disposizione dell'azienda
+AAA
