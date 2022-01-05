@@ -72,7 +72,7 @@ Gli stati noti di seguito rappresentati differiscono di circa un angolo giro
 
 <img src="slide/f11.png" width="300" height="300">
 
-Se i due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno agli stato di guasto noti afferenti alle curve g e f
+Se i due punti P1 e P2 rappresentano due stati distinti di guasto, è possibile ricondurre ciascuno ai guasti noti afferenti alle curve g e f
 
 <img src="slide/f12.png" width="300" height="300">
 
