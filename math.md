@@ -105,11 +105,11 @@ Completiamo adesso il diagramma polare con gli ultimi risultati ottenuti
 
 <img src="slide/m16.png" width="922" height="398">
 
-Siamo prossimi ad una situazione limite con verso di rotazione antioraria che corrisponde ad un aumento dei tempi di arrivo degli allarmi. L'angolo beta infatti è prossimo all'angolo alfa. L'angolo alfa rimane tuttavia il minore ed il modello è in grado di associare il codice guasto corretto
+Siamo prossimi ad una situazione limite. L'angolo beta infatti è prossimo all'angolo alfa. L'angolo alfa rimane tuttavia il minore ed il modello è in grado di associare il codice guasto corretto
 
 <img src="slide/m17.png" width="873" height="375">
 
-Proviamo adesso a cercare la situazione limite contraria riducendo il tempo di arrivo degli allarmi
+Proviamo adesso a cercare la situazione limite opposta riducendo il tempo di arrivo degli allarmi
 
 <img src="slide/m18.png" width="873" height="375">
 
@@ -132,4 +132,6 @@ Riportiamo i risultati sul piano polare
 <img src="slide/m22.png" width="754" height="371">
 
 Quello che si osserva è che per ogni addestramento di un *unico* dataset si ha a disposizione un settore all'interno del quale il modello effettua una predizione corretta. Il settore a cui fa riferimento il codice guasto può essere ampliato a seguito di un nuovo addestramento di un nuovo dataset. Questa attività può essere svolta all'occorrenza dal manutentore durante il ciclo di vita della macchina ed entrare a far parte di un database unico a disposizione dell'azienda
-AAA
+
+## Nuovo addestramento da HMI: ampliamento del settore di individuazione del guasto
+... segue
