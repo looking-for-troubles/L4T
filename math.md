@@ -142,9 +142,9 @@ Una volta completato l'addestramento si passa alla fase di riconoscimento. Inser
 
 <img src="slide/m24.png" width="450" height="300">
 
-Adesso carichiamo un dataset con valori ancora piu' piccoli. Si nota che il modello ha ampliato il settore di riconoscimento
+Adesso carichiamo un dataset con valori ancora piu' piccoli. Si nota che il modello ha ampliato il proprio settore di riconoscimento per il guasto C
 
 <img src="slide/m25.png" width="450" height="300">
 
-
+Naturalmente questo può essere un nuovo punto di partenza per un ulteriore addestramento. In caso di possibili sovrapposizioni con settori di guasti adiacenti è sempre possibile un salto di livello in termini di modulo e angolo in radianti 
 
