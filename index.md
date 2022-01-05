@@ -144,7 +144,8 @@ Sostituendo si ha
 
 che costituiscono gli aggiornamenti dei pesi a seguito del feedback
 
-Per i piu' curiosi o per quelli che non sono convinti dei contenuti dell'abbecedario, si rimanda alla lettura di [questa pagina](/math.md)
+## Simulazione ed applicazione numerica del modello
+Per approfondire e comprendere meglio come opera e come si applica il modello descritto, si rimanda alla lettura di [questa pagina](/math.md)
 
 ## Caso Studio
 .. in progress
