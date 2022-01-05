@@ -89,7 +89,7 @@ Si ricorda che questa operazione non è altro che l'input di rete fornito al mod
 
 Riportiamo il risultato dell'operazione sul piano polare ed osserviamo che il vettore k è prossimo al vettore h e quindi il modello associa il nuovo dataset al guasto 3C
 
-<img src="slide/m13.png" width="450" height="200">
+<img src="slide/m13.png" width="873" height="375">
 
 Ripetiamo i conti con Scilab anche per i pesi relativi ai guasti 1A e 2B
 
