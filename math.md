@@ -134,4 +134,17 @@ Riportiamo i risultati sul piano polare
 Quello che si osserva è che per ogni addestramento di un *unico* dataset si ha a disposizione un settore all'interno del quale il modello effettua una predizione corretta. Il settore a cui fa riferimento il codice guasto può essere ampliato a seguito di un nuovo addestramento di un nuovo dataset. Questa attività può essere svolta all'occorrenza dal manutentore durante il ciclo di vita della macchina ed entrare a far parte di un database unico a disposizione dell'azienda
 
 ## Nuovo addestramento da HMI. Ampliamento del settore di individuazione del guasto
-... segue
+Per addestrare nuovamente il modello in modo che possa riconoscere il guasto C al di sotto dei valori dell'ultimo esempio, si è introdotto un nuovo pulsante denominato 4C, la cui pressione touch consente di caricare i pesi in un nuovo database. Il dataset di addestramento è quello precedente ed è riportato nella figura che segue
+
+<img src="slide/m23.png" width="450" height="300">
+
+Una volta completato l'addestramento si passa alla fase di riconoscimento. Inserendo il dataset il modello ci conferma l'avvenuto riconoscimento con il codice numerico 4
+
+<img src="slide/m24.png" width="450" height="300">
+
+Adesso carichiamo un dataset con valori ancora piu' piccoli. Si nota che il modello ha ampliato il settore di riconoscimento
+
+<img src="slide/m24.png" width="450" height="300">
+
+
+
