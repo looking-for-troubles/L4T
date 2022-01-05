@@ -144,7 +144,7 @@ Una volta completato l'addestramento si passa alla fase di riconoscimento. Inser
 
 Adesso carichiamo un dataset con valori ancora piu' piccoli. Si nota che il modello ha ampliato il settore di riconoscimento
 
-<img src="slide/m24.png" width="450" height="300">
+<img src="slide/m25.png" width="450" height="300">
 
 
 
