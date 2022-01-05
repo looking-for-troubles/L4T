@@ -14,7 +14,7 @@ I campi bianchi sono accessibili dal manutentore che può caricare con numeri re
 
 I campi azzurri non sono accessibili al manutentore e rappresentano:
 - i pesi calcolati dal modello
-- la diagonale della matrice quadrata
+- l'input di rete ovvero la somma dei prodotti dei pesi con gli allarmi ovvero la diagonale della matrice ottenuta dal prodotto della matrice trasposta dei pesi per il dataset
 - il modulo del vettore che incontra il punto sulla spirale logaritmica associato a quel guasto ricalcolato dal modello
 - l'angolo del mudulo del vettore 
 
