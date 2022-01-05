@@ -32,7 +32,7 @@ Durante la fase di riconoscimento è valutata sul piano la posizione del nuovo d
 ![fig3](/slide/fig3.png)
 
 Nel caso di figura il modello propone al manutentore il video-tutorial relativo alla riparazione del guasto 3. Se la previsione non è confermata, il sistema propone il video-tutorial del guasto 2. In questo caso è possibile correggere i pesi addestrando il modello tenendo conto del nuovo scenario.
-Di seguito è discussa una possibile applicazione di una spirale aurea da installare su un PLC S7 1500 per l’individuazione dell’impronta dell’origine del guasto da comunicare al manutentore.
+Di seguito è discussa una possibile applicazione di una spirale logaritmica da installare su un PLC S7 1500 per l’individuazione dell’impronta dell’origine del guasto da comunicare al manutentore.
 
 ## Video di presentazione del progetto
 **under construction**
@@ -58,7 +58,7 @@ Per poter interagire con la chat del manutentore occorre cercare su Telegram @in
 Digitando i numeri da 1 a 7, che semplicemente rappresentano i codici di guasto riconosciuti in fase di addestramento del PLC, è possibile ricevere le informazioni circa il ripristino del guasto. Naturalmente i video caricati hanno valenza didattica. In uno scenario industriale tali video dovrebbero essere disponibili già in fase di progettazione direttamente dal software Digital Twin come ad esempio NX di Siemens. Infatti la manutenzione non è un mero atto finale, una attività svincolata dal processo progettuale ma anzi orienta le scelte costruttive al fine di migliorare i costi e la durata di vita del prodotto 
 
 # Abbecedario matematico
-Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens
+Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens.
 La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli ingressi o matrice di dataset, passando per la funzione logaritmica fino alla retroazione di aggiornamento dei pesi
 
 ![fig4](/slide/fig4.png)
