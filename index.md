@@ -12,7 +12,7 @@ Operativamente la localizzazione degli stati di guasto avviene sul piano attrave
 Piu’ semplicemente la spirale logaritmica si adatta allo scopo anche con pochi od unici dataset iniziali per tipologia di guasto, situazioni frequenti in ambito industriale.
 
 ## Descrizione generale del modello
-Il modello si basa sull’idea che gli stati di guasto di una macchina complessa possano essere associati ad un percorso descritto da una funzione come ad esempio la spirale aurea. Tale scelta, di notevole valenza didattica per le diverse implicazioni matematiche e storico-filosofiche ovvero con ricadute multidisciplinari, si è rilevata efficace anche da un punto di vista pratico stimolando al contempo la curiosità degli studenti.
+Il modello si basa sull’idea che gli stati di guasto di una macchina complessa possano essere associati ad un percorso descritto da una funzione come ad esempio la [spirale aurea](https://www.geogebra.org/m/azsspzyb). Tale scelta, di notevole valenza didattica per le diverse implicazioni matematiche e storico-filosofiche ovvero con ricadute multidisciplinari, si è rilevata efficace anche da un punto di vista pratico stimolando al contempo la curiosità degli studenti.
 
 ## Impronta dell’evento guasto
 Quando un evento riconducibile ad un guasto produce un allarme rappresentato da una serie di segnali booleani e/o analogici in cascata che aumenta con l’aumentare della complessità del sistema, può essere utile studiare “l’impronta” che connota tale evento per aiutare il manutentore ad intervenire e risolvere il problema nel piu’ breve tempo possibile.
