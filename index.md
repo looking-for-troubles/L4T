@@ -64,7 +64,14 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 ![fig4](/slide/fig4.png)
 
 ## Spirale Logaritmica
-Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato. Nella figura seguente la sezione in colore azzurro rappresenta il campo di esistenza compreso tra 0 e multipli di due volte pigreco 
+Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. 
+La spirale logaritmica riportata su un piano polare assume la seguente forma
+
+<img src="slide/m0.png" width="915" height="412">
+
+La spirale logaritmica piu' famosa è la [spirale aurea](https://it.wikipedia.org/wiki/Spirale_aurea) che può essere rappresentata anche attraverso una successione geometrica di [rettangoli aurei](https://www.geogebra.org/m/azsspzyb) aventi i lati di dimensioni pari alla successione di [Fibonacci](https://it.wikipedia.org/wiki/Leonardo_Fibonacci)
+
+Se prendiamo la funzione e la studiamo nel piano cartesiano si osserva che per ogni angolo esiste un modulo associato. Nella figura seguente la sezione in colore azzurro rappresenta il campo di esistenza compreso tra 0 e multipli di due volte pigreco 
 
 <img src="slide/f10.png" width="300" height="300">
 
