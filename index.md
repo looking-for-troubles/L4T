@@ -67,7 +67,7 @@ La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli
 Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. 
 La spirale logaritmica riportata su un piano polare assume la seguente forma
 
-<img src="slide/m0.png" width="915" height="412">
+<img src="slide/m0.png" width="458" height="206">
 
 La spirale logaritmica piu' famosa è la [spirale aurea](https://it.wikipedia.org/wiki/Spirale_aurea) che può essere rappresentata anche attraverso una successione geometrica di [rettangoli aurei](https://www.geogebra.org/m/azsspzyb) aventi i lati di dimensioni pari alla successione di [Fibonacci](https://it.wikipedia.org/wiki/Leonardo_Fibonacci)
 
