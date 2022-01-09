@@ -11,7 +11,7 @@ Supponiamo ad esempio di dover addestrare un il modello per il riconoscimento di
 
 Dal datasheet di evince che il campo di regolazione del tempo di intervento è compreso tra i 50 millisecondi e 100 ore. Supponiamo per semplicità di impostare il valore del contatto di scambio a 50ms. E' ragionevole supporre che esista una variabilità di questo valore legata a vari fattori come ad esempio la temperatura di esercizio. Tuttavia questa variabilità sarà compresa in un range ragionevole per le condizioni di impiego e d'uso del relè, ovvero potremmo stabilire che entro 100ms il relè abbia commutato.
 
-Attraverso Crystall Ball si ricostruisce il dataset attribuendo però la variabilità del campo di intervento temporale che da un punto di vista grafico è indicata con una cella con sfondo verde
+Attraverso Crystall Ball si ricostruisce il dataset attribuendo però la variabilità del campo di intervento temporale visibile graficamente da celle con sfondo verde
 
 <img src="slide/e1.png" width="450" height="300">
 
