@@ -3,3 +3,8 @@ Oracle Crystal Ball è una applicazione basata su fogli di calcolo per la modell
 Quando la matrice di dataset è generata dall'intervento di piu' allarmi che possono avere tempi di risposta casuali all'interno di un range comunque definito o definibile, è possibile stabilire delle distribuzioni equiprobabili, o rettangolari, al fine di individuare il settore sulla curva logaritmica che rappresenta una specifica categoria di guasto
 
 Facciamo un esempio prendendo a riferimento il dataset del guasto 3 già visto nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
+
+
+<img src="slide/m9.png" width="450" height="300">
+
+Supponiamo ad esempio di dover addestrare un il modello per il riconoscimento di un guasto nel cui dataset compaiono segnali prodotti da relè a tempo elettronici tipo Siemens 7PV15 per industria e infrastruttura, le cui informazioni sono scaricabili dal [Tia Selection Tool cloud](https://mall.industry.siemens.com/tst/#/Start)
