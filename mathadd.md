@@ -30,8 +30,10 @@ Il valore che otteniamo è appunto quello riportato sull'HMI nel campo azzurro d
 
 <img src="slide/e5.png" width="450" height="300">
 
-Dall'analisi probabilistica si osserva che, tenendo conto della variabilità del tempo di commutazione, nel 98% dei casi l'angolo è compreso tra 2,15 e 2,60 radianti ovvero tra 123° e 150° gradi 
+Dall'analisi probabilistica si osserva che, tenendo conto della variabilità del tempo di commutazione dei relè scelti, nel 98% dei casi l'angolo è compreso tra 2,15 e 2,60 radianti ovvero tra 123° e 150° gradi 
 Prendendo a riferimento la spirale logaritmica dell'esempio della pagina [Rappresentazione grafica del modello con PLC Siemens S7 1500](math.md) con coefficiente b=0,35 si ottiene graficamente nel piano polare il seguente settore che identifica il guasto 3
+
+<img src="slide/e5.png" width="450" height="300">
 
 
 
