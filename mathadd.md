@@ -38,3 +38,5 @@ Prendendo a riferimento la spirale logaritmica dell'esempio della pagina [Rappre
 ## Addestramento del modello mediante PLC S7 1500 Siemens
 La procedura di addestramento è la stessa vista nella pagina [Rappresentazione grafica del modello con PLC Siemens S7 1500](math.md). Per semplicità di lettura si riportano i passaggi principali che confermano l'analisi svolta con Crystall Ball di Oracle
 
+... in progress
+
