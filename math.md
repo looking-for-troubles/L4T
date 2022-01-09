@@ -147,4 +147,5 @@ Adesso carichiamo un dataset con valori ancora piu' piccoli. Si nota che il mode
 <img src="slide/m25.png" width="450" height="300">
 
 Naturalmente questo può essere un nuovo punto di partenza per un ulteriore addestramento. In caso di possibili sovrapposizioni con settori di guasti adiacenti è sempre possibile un salto di livello in termini di modulo e angolo in radianti 
+ Nella [Pagina](/mathadd.md) è proposto un metodo di addestramento a *a priori* da fare prima della messa in servizio della macchina
 
