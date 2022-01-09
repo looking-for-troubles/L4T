@@ -23,4 +23,6 @@ Nulla vieta però di utilizzare distribuzioni diverse
 
 <img src="slide/e3.png" width="450" height="300">
 
+Adesso prendiamo la matrice addestrata dei pesi e la carichiamo nel foglio di calcolo per ottenere la funzione z 
 
+<img src="slide/e4.png" width="450" height="300">
