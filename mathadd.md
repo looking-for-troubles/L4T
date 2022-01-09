@@ -7,4 +7,8 @@ Facciamo un esempio prendendo a riferimento il dataset del guasto 3 già visto n
 
 <img src="slide/m9.png" width="450" height="300">
 
-Supponiamo ad esempio di dover addestrare un il modello per il riconoscimento di un guasto nel cui dataset compaiono segnali prodotti da relè a tempo elettronici tipo Siemens 7PV15 per industria e infrastruttura, le cui informazioni sono scaricabili dal [Tia Selection Tool cloud](https://mall.industry.siemens.com/tst/#/Start)
+Supponiamo ad esempio di dover addestrare un il modello per il riconoscimento di un guasto nel cui dataset compaiono segnali prodotti da relè a tempo elettronici tipo Siemens 7PV15 per industria e infrastruttura, le cui informazioni sono scaricabili da Web alla pagina [Tia Selection Tool cloud](https://mall.industry.siemens.com/tst/#/Start)
+
+Dal datasheet di evince che il campo di regolazione del tempo di intervento è compreso tra i 50 millisecondi e 100 ore. Supponiamo per semplicità di impostare il valore del contatto di scambio a 50ms. E' ragionevole supporre che esista una variabilità di questo valore legata a vari fattori come ad esempio la temperatura di esercizio. Tuttavia questa variabilità sarà compresa in un range ragionevole per le condizioni di impiego e d'uso del relè, ovvero potremmo stabilire che entro 100ms il relè abbia commutato.
+
+
