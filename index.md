@@ -152,11 +152,11 @@ Sostituendo si ha
 che costituiscono gli aggiornamenti dei pesi a seguito del feedback
 
 ## Simulazione ed applicazione numerica del modello
-Per approfondire e comprendere meglio come opera e come si applica il modello descritto, si rimanda alla lettura di [questa pagina](/math.md)
+Per approfondire e comprendere meglio come opera e come si applica il modello descritto, si rimanda al pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
 
 ## Un possibile metodo di addestramento con Crystall Ball di Excel
 In [questa pagina](/mathadd.md) è proposto un metodo di addestramento fatto *a priori* ovvero prima della messa in servizio della macchina. Lo spazio dei dataset, <b>a partire da uno o pochi dataset a disposizione per ciascun guasto</b>, è generato mediante il software [Crystall Ball di Oracle](https://www.oracle.com/it/middleware/technologies/crystalball.html) 
-Naturalmente la teoria che soggiace al modello è sempre la stessa che è stata discussa ed approfondita nella pagina di [simulazione numerica](/math.md)
+Naturalmente la teoria che soggiace al modello è sempre la stessa che è stata discussa ed approfondita nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
 
 ## Caso Studio
 .. in progress
