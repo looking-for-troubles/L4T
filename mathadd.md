@@ -15,4 +15,12 @@ Attraverso Crystall Ball si ricostruisce il dataset attribuendo però la variabi
 
 <img src="slide/e1.png" width="450" height="300">
 
+La distribuzione rettangolare è impostata come da figura. La scelta è dovuta al fatto che in assenza di informazioni la distribuzione dei tempi è considerata equiprobabile
+
+<img src="slide/e2.png" width="450" height="300">
+
+Nulla vieta però di utilizzare distribuzioni diverse 
+
+<img src="slide/e3.png" width="450" height="300">
+
 
