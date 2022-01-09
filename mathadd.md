@@ -4,7 +4,6 @@ Quando la matrice di dataset è generata dall'intervento di piu' allarmi che pos
 
 Facciamo un esempio prendendo a riferimento il dataset del guasto 3 già visto nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
 
-
 <img src="slide/m6.png" width="450" height="300">
 
 Supponiamo ad esempio di dover addestrare un il modello per il riconoscimento di un guasto nel cui dataset compaiono segnali prodotti da relè a tempo elettronici tipo Siemens 7PV15 per industria e infrastruttura, le cui informazioni sono scaricabili da Web alla pagina [Tia Selection Tool cloud](https://mall.industry.siemens.com/tst/#/Start)
@@ -26,5 +25,8 @@ Nulla vieta però di utilizzare distribuzioni diverse
 Adesso prendiamo la matrice addestrata dei pesi e la carichiamo nel foglio di calcolo per ottenere la funzione z 
 
 <img src="slide/e4.png" width="450" height="300">
+
+Il valore che otteniamo è appunto quello riportato sull'HMI nel campo azzurro di sommatoria denominato "z" ed è pari circa a 2,3 
+
 
 
