@@ -26,7 +26,7 @@ Adesso prendiamo la matrice addestrata dei pesi e la carichiamo nel foglio di ca
 
 <img src="slide/e4.png" width="450" height="300">
 
-Il valore che otteniamo è appunto quello riportato sull'HMI nel campo azzurro di sommatoria denominato "z" ed è pari circa a 2,3 
+Il valore che otteniamo è appunto quello riportato sull'HMI nel campo azzurro di sommatoria denominato "z" ed è pari circa a 2,3 che rappresenta 
 
 
 
