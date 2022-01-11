@@ -15,7 +15,7 @@ Piu’ semplicemente la spirale logaritmica si adatta allo scopo anche con pochi
 Il modello si basa sull’idea che gli stati di guasto di una macchina complessa possano essere associati ad un percorso descritto da una funzione come ad esempio la [spirale aurea](https://www.geogebra.org/m/azsspzyb). Tale scelta, di notevole valenza didattica per le diverse implicazioni matematiche e storico-filosofiche ovvero con ricadute multidisciplinari, si è rilevata efficace anche da un punto di vista pratico stimolando al contempo la curiosità degli studenti.
 Di fatto si tratta di un algoritmo [Adaline](https://en.wikipedia.org/wiki/ADALINE) dove una combinazione lineare di determinati valori di input <b>x</b> e un corrispondente vettore di pesi <b>w</b> costituiscono l'argomento della funzione di attivazione. Il principio su cui si basa il modello sarà chiarito piu' avanti ma in sostanza la funzione di attivazione è semplicemente la funzione identità dell'input della rete che attraverso l'impiego di un quantizzatore stabilisce l'etichetta del guasto come illustrato nella figura successiva
 
-<img src="slide/modello.png" width="500" height="300">
+<img src="slide/modello.png" width="550" height="300">
 
 ## Impronta dell’evento guasto
 Quando un evento riconducibile ad un guasto produce un allarme rappresentato da una serie di segnali booleani e/o analogici in cascata che aumenta con l’aumentare della complessità del sistema, può essere utile studiare “l’impronta” che connota tale evento per aiutare il manutentore ad intervenire e risolvere il problema nel piu’ breve tempo possibile.
