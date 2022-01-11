@@ -17,6 +17,8 @@ Di fatto si tratta di un algoritmo [Adaline](https://en.wikipedia.org/wiki/ADALI
 
 <img src="slide/modello.png" width="550" height="250">
 
+Con la spirale logaritmica al crescere dell'angolo cresce anche il modulo del vettore di addestramento e questo consente di addestrare matrici di pesi differenti anche in caso di angoli multipli, cosa che non sarebbe possibile ad esempio utilizzando la circonferenza. In Adaline la funzione di attivazione è lineare. Nel nostro progetto si è scelto una funzione non lineare, spesso presente in natura, con l'ambizione di realizzare un modello "personalizzato", capace di riconoscere etichette di guasto mediante addestramento    
+
 ## Impronta dell’evento guasto
 Quando un evento riconducibile ad un guasto produce un allarme rappresentato da una serie di segnali booleani e/o analogici in cascata che aumenta con l’aumentare della complessità del sistema, può essere utile studiare “l’impronta” che connota tale evento per aiutare il manutentore ad intervenire e risolvere il problema nel piu’ breve tempo possibile.
 Ora se l'impronta lasciata da questo evento (per impronta si intende la sequenza di bit, l'istante di tempo in cui commutano, la loro durata, eventuali altri segnali analogici ecc.) sono sempre ed esattamente tutti uguali per ogni evento indifferentemente dalla causa che lo genera, allora è sufficiente un calcolo combinatorio (es. mappa Karnaugh) per stabilire con certezza l’origine del guasto.
