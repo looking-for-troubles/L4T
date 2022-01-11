@@ -66,7 +66,7 @@ Digitando i numeri da 1 a 7, che semplicemente rappresentano i codici di guasto 
 Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens.
 La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli ingressi o matrice di dataset, passando per la funzione logaritmica fino alla retroazione di aggiornamento dei pesi
 
-<img src="slide/modello.png" width="450" height="150">
+<img src="slide/modello.png" width="440" height="200">
 
 ## Spirale Logaritmica
 Prima di affrontare l'aspetto matematico di seguito si ribadisce l'opportunità della scelta della spirale logaritmica. 
