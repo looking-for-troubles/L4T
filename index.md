@@ -7,7 +7,7 @@ Realizzato in collaborazione tra:
 
 
 ## Finalità
-Il presente lavoro ha come finalità l’individuazione rapida di guasti di una macchina complessa e di fornire al manutentore dei video-tutorials lanciati direttamente dal PLC S7 1500 tramite server dedicato a smartphone o ad altri device in dotazione al fine di semplificare l’attività manutentiva.
+Il presente lavoro ha come finalità l’individuazione rapida di guasti di una macchina complessa e di fornire al manutentore dei video-tutorials lanciati direttamente dal PLC S7 1500, tramite server dedicato, a smartphone o ad altri device in dotazione al fine di semplificare l’attività manutentiva.
 Operativamente la localizzazione degli stati di guasto avviene sul piano attraverso coordinate polari che descrivono una particolare spirale logaritmica. Tale traiettoria opportunamente supportata da informazioni provenienti da sensori specifici, potrebbe descrivere lo stato di funzionamento della macchina utile per la manutenzione predittiva.
 Piu’ semplicemente la spirale logaritmica si adatta allo scopo anche con pochi od unici dataset iniziali per tipologia di guasto, situazioni frequenti in ambito industriale.
 
