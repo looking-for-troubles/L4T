@@ -17,7 +17,7 @@ Di fatto si tratta di un algoritmo [Adaline](https://en.wikipedia.org/wiki/ADALI
 
 <img src="slide/modello.png" width="550" height="250">
 
-Con la spirale logaritmica al crescere dell'angolo cresce anche il modulo del vettore di addestramento e questo consente di addestrare matrici di pesi differenti anche in caso di angoli multipli, cosa che non sarebbe possibile ad esempio utilizzando la circonferenza. 
+Con la spirale logaritmica al crescere dell'angolo cresce anche il modulo del vettore di addestramento e questo consente di addestrare matrici di pesi differenti anche in caso di angoli multipli. 
 C'è pero una differenza sostanziale da sottolineare. In Adaline la funzione di attivazione è lineare 
 
 ![figa1](/slide/a1.png)
