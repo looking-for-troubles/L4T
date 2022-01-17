@@ -48,7 +48,7 @@ Durante la fase di riconoscimento è valutata sul piano la posizione del nuovo d
 ![fig3](/slide/fig3.png)
 
 Nel caso di figura il modello propone al manutentore il video-tutorial relativo alla riparazione del guasto 3. Se la previsione non è confermata, il sistema propone il video-tutorial del guasto 2. In questo caso è possibile correggere i pesi addestrando il modello tenendo conto del nuovo scenario.
-Di seguito è discussa una possibile applicazione di una spirale logaritmica da installare su un PLC S7 1500 per l’individuazione dell’impronta dell’origine del guasto da comunicare al manutentore.
+Nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md) è discussa una possibile applicazione di una spirale logaritmica da installare su un PLC S7 1500 per l’individuazione dell’impronta dell’origine del guasto da comunicare al manutentore, mentre alla pagina [Un possibile metodo di addestramento con Crystall Ball di Excel](/mathadd.md) è proposto un metodo di addestramento fatto *a priori* ovvero prima della messa in servizio della macchina. 
 
 ## Video di presentazione del progetto
 **under construction**
