@@ -189,13 +189,13 @@ combinata con la professionalità e l'esperienza del settore Tissue presente sul
 
 ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo lo strumento operativo denominato L4T
 
-## Dataset Körber Tissue
+## Obiettivo del caso studio
 A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
-Si tratta di una parte assai complessa ed innovativa della linea Pilota che svolge la funzione di incollaggio dei prodotti con performance uniche nel suo genere.
+Tale sezione di impianto prende il nome di incollatrice. Si tratta di una parte assai complessa ed innovativa della linea Pilota che svolge la funzione di incollaggio dei prodotti con performance uniche nel suo genere.
 
 *Nota per Körber: se il copyright lo consente propongo un breve descrizione dell'incollatrice anche eventualmente con rimando ad altre pagine tramite link*
 
-La parte di impianto denominata incollatrice utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto.
+Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto.
 
-
+## Dataset Körber Tissue
 
