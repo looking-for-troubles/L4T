@@ -199,4 +199,5 @@ Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PL
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
 ## Dataset Körber Tissue
-
+Preliminarmente ai test in situ con gli studenti, l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
+Il dataset fornito in formato Excel è disponibile [qui](/DataSet) 
