@@ -193,7 +193,7 @@ ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, 
 A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
 Si tratta di una parte assai complessa ed innovativa della linea Pilota che svolge la funzione di incollaggio dei prodotti con performance uniche nel suo genere.
 
-*propongo di aggiungere una breve descrizione dell'incollatrice anche eventualmente con rimando ad altre pagine tramite link*
+*Nota per Körber: propongo di aggiungere una breve descrizione dell'incollatrice anche eventualmente con rimando ad altre pagine tramite link*
 
 
 
