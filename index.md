@@ -187,7 +187,9 @@ combinata con la professionalità e l'esperienza del settore Tissue presente sul
 
 <img src="slide/k3.png" width="450" height="300">
 
-ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo il risultato descritto in queste pagine
+ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo lo strumento operativo denominato L4T
 
-## Dataset Körber
+## Dataset Körber Tissue
+A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
+
 
