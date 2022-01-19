@@ -174,6 +174,6 @@ Naturalmente la teoria che soggiace al modello è sempre la stessa discussa nell
 
 ## Caso Studio
 L'azienda [Körber Tissue Lucca](https://www.koerber-tissue.com/it/) ha aderito alla proposta avanzata dai due istituti tecnici circa la possibilità di sperimentare sul campo l'idea di un modello addestrabile in SCL con PLC S7 1500, rendendosi da subito disponibile attraverso incontri preparatori online già nel periodo estivo prima dell'inizio dell'anno scolastico 2021-2022. 
-Di seguito alcune precisazioni circa il company profile di Körber
+Di seguito alcune precisazioni circa il Company Profile di Körber
 
-
+<img src="slide/K1.png" width="300" height="300">
