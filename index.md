@@ -195,7 +195,8 @@ Tale sezione di impianto prende il nome di incollatrice. Si tratta di una parte 
 
 *Nota per Körber: se il copyright lo consente propongo un breve descrizione dell'incollatrice anche eventualmente con rimando ad altre pagine tramite link*
 
-Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto.
+Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto per le prove in situ con gli studenti.
+A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
 ## Dataset Körber Tissue
 
