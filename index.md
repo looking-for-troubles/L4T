@@ -187,5 +187,7 @@ combinata con la professionalità e l'esperienza del settore Tissue presente sul
 
 <img src="slide/k3.png" width="450" height="300">
 
-ha permesso la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo il risultato descritto in queste pagine
+ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo il risultato descritto in queste pagine
+
+## Dataset Körber
 
