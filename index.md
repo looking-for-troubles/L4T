@@ -3,7 +3,7 @@ Progetto Looking For Troubles "L4T"
 Realizzato in collaborazione tra:
 - <b> [Fermi-Giorgi Lucca](https://www.polofermigiorgi.edu.it/) </b>
 - <b> [Galilei-Artiglio Viareggio](http://www.iisgalileiartiglio.edu.it/) </b>
-- <b> [Koerber Tissue Lucca](https://www.koerber-tissue.com/it/) </b>
+- <b> [Körber Tissue Lucca](https://www.koerber-tissue.com/it/) </b>
 
 
 ## Finalità
@@ -173,6 +173,7 @@ In questa sezione [Un possibile metodo di addestramento con Crystall Ball di Exc
 Naturalmente la teoria che soggiace al modello è sempre la stessa discussa nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md) e quindi il manutentore può sempre migliorare l'addestramento aggiornando i pesi in caso di necessità
 
 ## Caso Studio
-.. in progress
+L'azienda [Körber Tissue Lucca](https://www.koerber-tissue.com/it/) ha aderito alla proposta avanzata dai due Istituti Tecnici circa la possibilità di sperimentare sul campo l'idea di un modello addestrabile in SCL con PLC S7 1500, rendendosi da subito disponibile attraverso incontri preparatori online già nel periodo estivo prima dell'inizio dell'anno scolastico 2021-2022. 
+
 
 
