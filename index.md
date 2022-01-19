@@ -200,4 +200,7 @@ A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla 
 
 ## Dataset Körber Tissue
 Preliminarmente ai test in situ con gli studenti, l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
-Il dataset fornito in formato Excel è disponibile [qui](/dataset) 
+Il dataset fornito in formato Excel è disponibile [qui](/dataset). Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola secondo la procedura descritta di seguito. Si riconrda infatti che per come è concepito il modello è sempre possibile per il manutentore migliorare l'addestramento in caso di necessità 
+
+## Fase di primo addestramento  
+
