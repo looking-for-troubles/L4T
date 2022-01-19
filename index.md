@@ -200,4 +200,4 @@ A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla 
 
 ## Dataset Körber Tissue
 Preliminarmente ai test in situ con gli studenti, l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
-Il dataset fornito in formato Excel è disponibile [qui](/DataSet) 
+Il dataset fornito in formato Excel è disponibile [qui](/dataset) 
