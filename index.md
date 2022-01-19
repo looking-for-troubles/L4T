@@ -195,5 +195,7 @@ Si tratta di una parte assai complessa ed innovativa della linea Pilota che svol
 
 *Nota per Körber: se il copyright lo consente propongo un breve descrizione dell'incollatrice anche eventualmente con rimando ad altre pagine tramite link*
 
+La parte di impianto denominata incollatrice utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto.
+
 
 
