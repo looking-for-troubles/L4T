@@ -39,5 +39,6 @@ Prendendo a riferimento la spirale logaritmica dell'esempio della pagina [Rappre
 
 ## Addestramento del modello mediante PLC S7 1500 Siemens
 La procedura di addestramento è la stessa vista nella pagina [Rappresentazione grafica del modello con PLC Siemens S7 1500](math.md). 
-E' possibile approfondire l'argomento alla pagina relativa al caso studio Körber Tissue [Primo addestramento matrice pesi guasto incollatrice](/koerber.md)
+
+E' inoltre possibile approfondire l'argomento con un esempio reale alla pagina relativa al caso studio Körber Tissue [Primo addestramento matrice pesi guasto incollatrice](/koerber.md)
 
