@@ -3,8 +3,6 @@ In questa sezione sono raccolti gli argomenti principali del modello spiegati tr
 
 I valori numerici utilizzati sono del tutto generici dato che il modello nasce con lo scopo di poter essere adattato o meglio personalizzato sulla base dei guasti rilevati durante il funzionamento della macchina
 
-Se vuoi tornare alla pagina iniziale Olimpiadi Siemens 2022 [premi qui](/index.md)
-
 ## Dal dataset alla matrice dei pesi
 Supponiamo di simulare il modello manualmente attraverso l'uso di un HMI. In altre parole supponiamo di essere il manutentore che a seguito di un guasto rilevato addestra il modello al fine di permetterne il riconoscimento in automatico per un evento successivo
 
