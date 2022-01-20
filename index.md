@@ -203,4 +203,4 @@ Preliminarmente ai test in situ con gli studenti, l'azienda Körber Tissue Lucca
 Il dataset fornito in formato Excel è disponibile [qui](/dataset). Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola secondo la procedura descritta di seguito. Si riconrda infatti che per come è concepito il modello è sempre possibile per il manutentore migliorare l'addestramento in caso di necessità 
 
 ## Fase di primo addestramento  
-
+La fase di primo addestramento è descritta dettagliatamente nella pagina [Primo addestramento matrice pesi Körber](koerber.md). Il risultato dell'attività ha prodotto le matrici dei pesi e gli angoli all'interno dei quali sono contenute le etichette dei guasti
