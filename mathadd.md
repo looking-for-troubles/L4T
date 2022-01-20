@@ -4,7 +4,7 @@ Quando la matrice di dataset è generata dall'intervento di piu' allarmi che pos
 
 Se vuoi tornare alla pagina iniziale Olimpiadi Siemens 2022 [premi qui](/index.md)
 
-Facciamo un esempio prendendo a riferimento il dataset del guasto 3 già visto nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
+Nel prosieguo di questa sezione sarà proposto un esempio prendendo a riferimento il dataset del guasto 3 già visto nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
 
 <img src="slide/m6.png" width="450" height="300">
 
