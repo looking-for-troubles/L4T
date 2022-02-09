@@ -5,7 +5,7 @@ Realizzato in collaborazione tra:
 - <b> [Galilei-Artiglio Viareggio](http://www.iisgalileiartiglio.edu.it/) </b>
 - <b> [Körber Tissue Lucca](https://www.koerber-tissue.com/it/) </b>
 
-Questo lavoro ha come luce ispiratrice la figura di uno dei più grandi matematici di tutti i tempi : Leonardo Pisano detto il [Fibonacci](https://it.wikipedia.org/wiki/Leonardo_Fibonacci) 
+Questo lavoro ha come luce ispiratrice la figura di un illustre toscano, uno dei più grandi matematici di tutti i tempi : Leonardo Pisano detto il [Fibonacci](https://it.wikipedia.org/wiki/Leonardo_Fibonacci) 
 
 
 ## Finalità
