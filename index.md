@@ -208,3 +208,4 @@ Il dataset fornito in formato Excel è disponibile [qui](/dataset). Gli studenti
 
 ## Fase di primo addestramento  
 La fase di primo addestramento è descritta dettagliatamente nella pagina [Primo addestramento matrice pesi guasto incollatrice](koerber.md). Il risultato dell'attività ha prodotto le matrici dei pesi e gli angoli all'interno dei quali sono contenute le etichette dei guasti
+
