@@ -5,6 +5,8 @@ Realizzato in collaborazione tra:
 - <b> [Galilei-Artiglio Viareggio](http://www.iisgalileiartiglio.edu.it/) </b>
 - <b> [Körber Tissue Lucca](https://www.koerber-tissue.com/it/) </b>
 
+Questo lavoro ha come luce ispiratrice la figura di uno dei più grandi matematici di tutti i tempi : Leonardo Pisano detto il [Fibonacci](https://it.wikipedia.org/wiki/Leonardo_Fibonacci) 
+
 
 ## Finalità
 Il presente lavoro ha come finalità l’individuazione rapida di guasti di una macchina complessa e di fornire al manutentore dei video-tutorials lanciati direttamente dal PLC S7 1500, tramite server dedicato, a smartphone o ad altri device in dotazione al fine di semplificare l’attività manutentiva.
