@@ -51,7 +51,7 @@ Durante la fase di riconoscimento è valutata sul piano la posizione del nuovo d
 
 Nel caso di figura il modello propone al manutentore il video-tutorial relativo alla riparazione del guasto 3. Se la previsione non è confermata, il sistema propone il video-tutorial del guasto 2. In questo caso è possibile correggere i pesi addestrando il modello tenendo conto del nuovo scenario.
 Nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md) è discussa una possibile applicazione di una spirale logaritmica da installare su un PLC S7 1500 per l’individuazione dell’impronta dell’origine del guasto da comunicare al manutentore, mentre alla pagina [Un possibile metodo di addestramento con Crystall Ball di Excel](/mathadd.md) è proposto un metodo di addestramento fatto *a priori* ovvero prima della messa in servizio della macchina. 
-In seguito è inoltre proposto il [Caso Studio](/Caso/) ovvero l'attività condotta dagli studenti in Körber Tissue. L'azienda infatti ha organizzato una due giorni di prove mettendo a disposizione per gli studenti la linea pilota per le prove in situ.  
+In seguito è inoltre proposto il [Caso Studio](/CasoStudio/) ovvero l'attività condotta dagli studenti in Körber Tissue. L'azienda infatti ha organizzato una due giorni di prove mettendo a disposizione per gli studenti la linea pilota per le prove in situ.  
 
 ## Video di presentazione del progetto
 **under construction**
