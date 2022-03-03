@@ -90,7 +90,7 @@ Digitando i numeri da 1 a 7, che semplicemente rappresentano appunto i codici di
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="320" height="160" src="https://youtube.com/embed/nXHMbhAgaDg" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/nXHMbhAgaDg" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
