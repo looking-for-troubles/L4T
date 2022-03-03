@@ -186,27 +186,17 @@ L'azienda [Körber Tissue Lucca](https://www.koerber-tissue.com/it/)
 
 ha aderito alla proposta avanzata dai due istituti tecnici circa la possibilità di sperimentare sul campo l'idea di un modello addestrabile in SCL con PLC S7 1500, rendendosi da subito disponibile attraverso incontri preparatori online già nel periodo estivo prima dell'inizio dell'anno scolastico 2021-2022. 
 
-L'alta professionalità dell'azienda Körber
-
-<img src="slide/k2.png" width="450" height="300">
-
-combinata con la professionalità e l'esperienza del settore Tissue presente sul territorio
-
-<img src="slide/k3.png" width="450" height="300">
-
-ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo lo strumento operativo denominato L4T
+L'alta professionalità dell'azienda Körber combinata con la professionalità e l'esperienza del settore Tissue presente sul territorio ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo lo strumento operativo denominato L4T
 
 ## Obiettivo del caso studio
 A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
 Tale sezione di impianto prende il nome di incollatrice. Si tratta di una parte assai complessa ed innovativa della linea Pilota che svolge la funzione di incollaggio dei prodotti con performance uniche nel suo genere.
-
-*Nota per Körber: se il copyright lo consente propongo un breve descrizione dell'incollatrice anche eventualmente con rimando ad altre pagine tramite link*
-
 Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto per le prove in situ con gli studenti.
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
-## Dataset Körber Tissue
-Preliminarmente ai test in situ con gli studenti, l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
+## Studio preliminare di fattibilità con il software di simulazione
+Prima di poter operare direttamente sull'impianto collegando il modello ad una macchina complessa come l'incollatrice, è stato necessario simulare in laboratorio un sistema  composto da un PLC 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente la rete addestrata.
+Per fare questo l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
 Il dataset fornito in formato Excel è disponibile [qui](/dataset). Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola secondo la procedura descritta di seguito. Si riconrda infatti che per come è concepito il modello è sempre possibile per il manutentore migliorare l'addestramento in caso di necessità 
 
 ## Fase di primo addestramento  
