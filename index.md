@@ -195,7 +195,7 @@ Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PL
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
 ## Studio preliminare di fattibilità con il software di simulazione
-Prima di poter operare direttamente sull'impianto collegando il modello ad una macchina complessa come l'incollatrice, è stato necessario simulare in laboratorio un sistema  composto da un PLC 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente la rete addestrata.
+Prima di poter operare direttamente sull'impianto collegando il modello ad una macchina complessa come l'incollatrice, è stato necessario simulare in laboratorio un sistema  composto da un PLC 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente la rete addestrata per il riconoscimento.
 Per fare questo l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
 Il dataset fornito in formato Excel è disponibile [qui](/dataset). Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola secondo la procedura descritta di seguito. Si riconrda infatti che per come è concepito il modello è sempre possibile per il manutentore migliorare l'addestramento in caso di necessità 
 
