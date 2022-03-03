@@ -1,5 +1,5 @@
 # Olimpiadi Automazione Siemens 2022
-<img src="slide/ch1.png" width="80" height="70">Progetto Looking For Troubles "L4T"
+<img src="slide/ch1.png" width="85" height="70">Progetto Looking For Troubles "L4T"
 Realizzato in collaborazione tra:
 - <b> [Fermi-Giorgi Lucca](https://www.polofermigiorgi.edu.it/) </b>
 - <b> [Galilei-Artiglio Viareggio](http://www.iisgalileiartiglio.edu.it/) </b>
