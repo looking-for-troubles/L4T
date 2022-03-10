@@ -190,13 +190,6 @@ Sostituendo si ha
 
 che costituiscono gli aggiornamenti dei pesi a seguito del feedback
 
-## Simulazione ed applicazione numerica del modello
-Per approfondire e comprendere meglio come opera e come si applica il modello descritto, si rimanda al pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md)
-
-## Un possibile metodo di addestramento con Crystall Ball di Excel
-In questa sezione [Un possibile metodo di addestramento con Crystall Ball di Excel](/mathadd.md) è proposto un metodo di addestramento fatto *a priori* ovvero prima della messa in servizio della macchina. Lo spazio dei dataset, <b>a partire da uno o pochi dataset a disposizione per ciascun guasto</b>, è generato mediante il software [Crystall Ball di Oracle](https://www.oracle.com/it/middleware/technologies/crystalball.html) ed attraverso il prodotto con la matrice dei pesi, fornisce informazioni sull'angolo associato a quel guasto.
-Naturalmente la teoria che soggiace al modello è sempre la stessa discussa nella pagina di [Rappresentazione grafica del modello con PLC Siemens S7 1500](/math.md) e quindi il manutentore può sempre migliorare l'addestramento aggiornando i pesi in caso di necessità
-
 # Caso Studio
 L'azienda [Körber Tissue Lucca](https://www.koerber-tissue.com/it/) 
 
@@ -212,11 +205,13 @@ Tale sezione di impianto prende il nome di incollatrice. Si tratta di una parte 
 Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto per le prove in situ con gli studenti.
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
-## Studio preliminare di fattibilità con il software di simulazione
-Prima di poter operare direttamente sull'impianto collegando il modello L4T ad una macchina complessa come l'incollatrice, è stato necessario simulare in laboratorio un sistema  composto da un PLC 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente la rete addestrata per il riconoscimento.
-Per fare questo l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, producendo una serie di dataset necessari per l'addestramento del modello. 
-Il dataset fornito in formato Excel è disponibile [qui](/dataset). Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola secondo la procedura descritta di seguito. Si riconrda infatti che per come è concepito il modello è sempre possibile per il manutentore migliorare l'addestramento in caso di necessità 
+## Programma di simulazione per lo studio preliminare di fattibilità
+Prima di poter operare direttamente sull'incollatrice, è stato necessario simulare in laboratorio l'impianto realizzando un sistema composto da un PLC 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente il modello addestrato per il riconoscimento.
+Questa fase preliminare è stata di fatto uno studio di fattibilità per capire l'applicabilità effettiva del modello al contesto del caso studio.
+Per fare questa analisi preliminare, l'azienda Körber Tissue Lucca ha effettuato alcune prove sulla sezione di impianto oggetto di studio, fornendo una serie di dataset in formato Excel che mettiamo a dispozizione del lettore cliccando [qui](/dataset). Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
+Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola seguendo la procedura descritta nel video seguente. I risultati della simulazione hanno fornito indicazioni circa il numero di addestramenti necessari da compiere sul programma operativo da testare sull'impianto.
+Il programma di simulazione redatto con Tia Portal V16 è scaricabile 
 
-## Fase di primo addestramento  
+## Programma operativo di riconoscimento guasti  
 La fase di primo addestramento è descritta dettagliatamente nella pagina [Primo addestramento matrice pesi guasto incollatrice](koerber.md). Il risultato dell'attività ha prodotto le matrici dei pesi e gli angoli all'interno dei quali sono contenute le etichette dei guasti
 
