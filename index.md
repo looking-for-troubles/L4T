@@ -229,5 +229,5 @@ Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](/TIA
 </html>
 
 ## Programma operativo di riconoscimento guasti  
-Il programma operativo di riconoscimento guasti è stato testato collegando un PLC S7-1500 alla rete örber Tissue attraverso un file GSD
+Il programma operativo di riconoscimento guasti è stato testato collegando un PLC S7-1500 alla rete Körber Tissue attraverso collegamento GSD. Il programma operativo redatto con Tia Portal V16 è scaricabile [qui](/TIA_simulation). 
 
