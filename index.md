@@ -212,7 +212,21 @@ Per fare questa analisi preliminare, l'azienda Körber Tissue Lucca ha effettuat
 Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola seguendo la procedura descritta nel video seguente. I risultati della simulazione hanno fornito indicazioni circa il numero di addestramenti necessari da compiere sul programma operativo da testare sull'impianto.
 Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](/TIA_simulation).
 
-
+<html lang="it"> 
+<body>
+    <div class="container">
+         <!-- finestra popup 3 -->
+        <a href="#x" class="overlay" id="win3"></a>
+        <div class="popup">
+            <div class="video">
+         <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
+		    <iframe width="640" height="320" src="https://youtube.com/embed/UGeOokv1Kas" ></iframe>
+            </div>
+            <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
+        </div>
+    </div>
+</body>
+</html>
 
 ## Programma operativo di riconoscimento guasti  
 La fase di primo addestramento è descritta dettagliatamente nella pagina [Primo addestramento matrice pesi guasto incollatrice](koerber.md). Il risultato dell'attività ha prodotto le matrici dei pesi e gli angoli all'interno dei quali sono contenute le etichette dei guasti
