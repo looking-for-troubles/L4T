@@ -206,7 +206,7 @@ Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PL
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
 ## Programma di simulazione per lo studio preliminare di fattibilità
-Prima di poter operare direttamente sull'incollatrice è stato necessario simulare nei laboratori scolastici l'impianto realizzando un sistema composto da un PLC S7-1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7-1500 contenente il modello addestrato per il riconoscimento.
+Prima di poter operare direttamente sull'incollatrice è stato necessario simulare nei laboratori scolastici l'impianto realizzando un sistema composto da un PLC S7-1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7-1500 contenente il modello addestrato per il riconoscimento. Il collegamento tra i due PLC è stato realizzato utilizzando le funzioni TSEND_C e TRCV_C.
 Questa fase preliminare è stata di fatto uno studio di fattibilità per capire l'applicabilità effettiva del modello al contesto del caso studio.
 Per fare questa analisi preliminare, l'azienda Körber Tissue Lucca ha effettuato alcune prove sull'incollatrice fornendo una serie di dataset in formato Excel che mettiamo a disposizione del lettore cliccando [qui](/dataset). Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
 Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola seguendo la procedura descritta nel video seguente. I risultati della simulazione hanno fornito indicazioni circa il numero di addestramenti necessari da compiere sul programma operativo da testare sull'impianto.
@@ -229,5 +229,5 @@ Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](/TIA
 </html>
 
 ## Programma operativo di riconoscimento guasti  
-La fase di primo addestramento è descritta dettagliatamente nella pagina [Primo addestramento matrice pesi guasto incollatrice](koerber.md). Il risultato dell'attività ha prodotto le matrici dei pesi e gli angoli all'interno dei quali sono contenute le etichette dei guasti
+Il programma operativo di riconoscimento guasti è stato testato collegando un PLC S7-1500 alla rete örber Tissue attraverso un file GSD
 
