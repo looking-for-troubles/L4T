@@ -197,7 +197,7 @@ L'azienda [Körber Tissue Lucca](https://www.koerber-tissue.com/it/)
 
 ha aderito alla proposta avanzata dai due istituti tecnici circa la possibilità di sperimentare sul campo l'idea di un modello addestrabile in SCL con PLC S7 1500, rendendosi da subito disponibile attraverso incontri preparatori online già nel periodo estivo prima dell'inizio dell'anno scolastico 2021-2022. 
 
-L'alta professionalità dell'azienda Körber combinata con la professionalità e l'esperienza del settore Tissue presente sul territorio ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, producendo lo strumento operativo denominato L4T
+L'alta professionalità dell'azienda Körber combinata con la professionalità e l'esperienza del settore Tissue presente sul territorio ha favorito la giusta alchimia tra il mondo dell'impresa e quello della scuola, permettendo l'applicabilità dello strumento operativo denominato L4T
 
 ## Obiettivo del caso studio
 A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
