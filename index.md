@@ -208,7 +208,7 @@ A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla 
 ## Programma di simulazione per lo studio preliminare di fattibilità
 Prima di poter operare direttamente sull'incollatrice è stato necessario simulare in laboratorio l'impianto realizzando un sistema composto da un PLC 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente il modello addestrato per il riconoscimento.
 Questa fase preliminare è stata di fatto uno studio di fattibilità per capire l'applicabilità effettiva del modello al contesto del caso studio.
-Per fare questa analisi preliminare, l'azienda Körber Tissue Lucca ha effettuato alcune prove sull'incollatrice fornendo una serie di dataset in formato Excel che mettiamo a dispozizione del lettore cliccando [qui](/dataset). Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
+Per fare questa analisi preliminare, l'azienda Körber Tissue Lucca ha effettuato alcune prove sull'incollatrice fornendo una serie di dataset in formato Excel che mettiamo a disposizione del lettore cliccando [qui](/dataset). Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
 Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola seguendo la procedura descritta nel video seguente. I risultati della simulazione hanno fornito indicazioni circa il numero di addestramenti necessari da compiere sul programma operativo da testare sull'impianto.
 Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](/TIA_simulation).
 
