@@ -10,7 +10,7 @@ Questo lavoro è stato ispirato dalla figura di un illustre toscano, uno dei pi�
 
 
 ## Finalità
-Il presente lavoro ha come finalità l’individuazione rapida di guasti di una macchina o di un impianto complesso e di fornire al manutentore dei video-tutorials lanciati direttamente su smartphone o su altri device in dotazione in base al codice guasto comunicato dal PLC S7 1500.
+Il presente lavoro ha come finalità l’individuazione rapida di guasti di una macchina o di un impianto complesso e di fornire al manutentore dei video-tutorials lanciati direttamente su smartphone o su altri device in dotazione in base al codice guasto comunicato dal PLC S7-1500.
 Operativamente la localizzazione degli stati di guasto avviene sul piano attraverso coordinate polari che descrivono una particolare spirale logaritmica. Tale traiettoria opportunamente supportata da informazioni provenienti da sensori specifici, potrebbe descrivere lo stato di funzionamento della macchina utile per la manutenzione predittiva.
 Piu’ semplicemente la spirale logaritmica si adatta allo scopo anche con pochi dataset iniziali per tipologia di guasto, situazioni frequenti in ambito industriale.
 
@@ -206,7 +206,7 @@ Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PL
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
 ## Programma di simulazione per lo studio preliminare di fattibilità
-Prima di poter operare direttamente sull'incollatrice è stato necessario simulare nei laboratori scolastici l'impianto realizzando un sistema composto da un PLC S7 1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7 1500 contenente il modello addestrato per il riconoscimento.
+Prima di poter operare direttamente sull'incollatrice è stato necessario simulare nei laboratori scolastici l'impianto realizzando un sistema composto da un PLC S7-1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7-1500 contenente il modello addestrato per il riconoscimento.
 Questa fase preliminare è stata di fatto uno studio di fattibilità per capire l'applicabilità effettiva del modello al contesto del caso studio.
 Per fare questa analisi preliminare, l'azienda Körber Tissue Lucca ha effettuato alcune prove sull'incollatrice fornendo una serie di dataset in formato Excel che mettiamo a disposizione del lettore cliccando [qui](/dataset). Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
 Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola seguendo la procedura descritta nel video seguente. I risultati della simulazione hanno fornito indicazioni circa il numero di addestramenti necessari da compiere sul programma operativo da testare sull'impianto.
