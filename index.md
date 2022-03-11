@@ -220,7 +220,7 @@ Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](http
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/UGeOokv1Kas" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/5v5LbZU4Pk4" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
@@ -239,7 +239,7 @@ Il programma operativo di riconoscimento guasti è stato testato collegando un P
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/UGeOokv1Kas" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/5v5LbZU4Pk4" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
