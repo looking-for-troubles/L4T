@@ -228,7 +228,7 @@ Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](http
 </body>
 </html>
 
-A seguito dei risultati incorraggianti del programma di simulazione si è procecduto alla realizzazione del programma operativo descritto di seguito
+A seguito dei risultati incorraggianti del programma di simulazione si è proceduto alla realizzazione del programma operativo descritto al paragrafo successivo
 
 ## Programma operativo di riconoscimento guasti  
 Il programma operativo di riconoscimento guasti è stato realizzato per la prova in situ sull'impianto Körber Tissue. Per questa attività pratica l'azienda ha predisposto un indirizzo IP ed un collegamento GSD oltre che ad uno spazio di lavoro che ha consentito agli studenti di seguire le prove comodamente in totale sicurezza. Il programma operativo redatto con Tia Portal V16 è scaricabile [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_operating). Il funzionamento generale del programma è descritto nel video successivo
