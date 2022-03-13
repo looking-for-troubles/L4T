@@ -98,8 +98,6 @@ Digitando i numeri da 1 a 7, che semplicemente rappresentano appunto i codici di
 </body>
 </html>
 
-
-
 # Abbecedario matematico
 Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens.
 La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli ingressi o matrice di dataset, passando per la funzione logaritmica fino alla retroazione di aggiornamento dei pesi
@@ -207,7 +205,8 @@ A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla 
 
 ## Programma di simulazione per lo studio preliminare di fattibilità
 Prima di poter operare direttamente sull'incollatrice è stato necessario simulare nei laboratori scolastici l'impianto realizzando un sistema composto da un PLC S7-1200 in grado di generare dei dataset di guasto in modo random collegato in rete insieme al PLC S7-1500 contenente il modello addestrato per il riconoscimento. Il collegamento tra i due PLC è stato realizzato utilizzando le funzioni TSEND_C e TRCV_C.
-Questa fase preliminare è uno studio di fattibilità per capire l'applicabilità effettiva del modello al contesto del caso studio.
+I due PLC sono stati collegati in rete insieme ad un HMI TP1500 Comfort grazie al quale è stato possibile addestrare il modello ed effettuare le simulazioni di riconoscimento.
+Questa fase preliminare possiamo definirla uno studio di fattibilità utile per capire l'effettiva applicabilità del modello al contesto del caso studio.
 Per fare questa analisi preliminare l'azienda Körber Tissue Lucca ha effettuato alcune prove sull'incollatrice fornendo una serie di dataset in formato Excel che mettiamo a disposizione del lettore cliccando [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/dataset). **ATTENZIONE: se si vuole caricare manualmente i vari dataset occorre dividere i valori riportati nel foglio Excel per 1000 (millisecondi)**.  Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
 Gli angoli scelti associati a ciascun guasto ed utilizzati per l'addestramento sono riportati nella figura successiva
 
