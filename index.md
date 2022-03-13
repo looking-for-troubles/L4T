@@ -211,7 +211,7 @@ Questa fase preliminare è uno studio di fattibilità per capire l'applicabilit�
 Per fare questa analisi preliminare l'azienda Körber Tissue Lucca ha effettuato alcune prove sull'incollatrice fornendo una serie di dataset in formato Excel che mettiamo a disposizione del lettore cliccando [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/dataset). <b> ATTENZIONE: se si vuole caricare manualmente i vari dataset occorre dividere i valori riportati nel foglio Excel per 1000 </b>.  Dai dataset forniti sono stati estrapolati scenari random compresi tra i valori massimi e minimi reali, utilizzando la libreria LGF di Tia Portal.
 Gli angoli scelti associati a ciascun guasto ed utilizzati per l'addestramento sono riportati nella figura successiva
 
-<img src="slide/add0.png" width="458" height="206">
+<img src="slide/add0.png" width="667" height="363">
 
 Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento a scuola seguendo la procedura descritta nel video seguente. I risultati della simulazione hanno fornito indicazioni circa il numero di addestramenti necessari da compiere sul programma operativo da testare sull'impianto.
 Il programma di simulazione redatto con Tia Portal V16 è scaricabile [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_simulation).
