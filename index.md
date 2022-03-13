@@ -33,8 +33,8 @@ Nel modello adottato in questo lavoro la funzione di attivazione
 
 ![figa2](/slide/a2.png)
 
-addestra i pesi in modo da stabilire settori o porzioni di piano che ***raccolgono*** le etichette di guasto.
-Vedremo che questo approccio si rivela particolarmente utile in ambito industriale quando le informazioni sui dataset di guasto necessari all'addestramento sono pochi.  
+addestra i pesi in modo da stabilire settori o intorni dei vettori di riferimento che ***raccolgono*** le etichette di guasto.
+
 
 ## Impronta dell’evento guasto
 Quando un evento riconducibile ad un guasto produce un allarme rappresentato da una serie di segnali booleani e/o analogici in cascata che aumenta con l’aumentare della complessità del sistema, può essere utile studiare “l’impronta” che connota tale evento per aiutare il manutentore ad intervenire e risolvere il problema nel piu’ breve tempo possibile.
