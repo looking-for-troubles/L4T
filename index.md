@@ -15,7 +15,7 @@ Operativamente la localizzazione degli stati di guasto avviene sul piano attrave
 Piu’ semplicemente la spirale logaritmica si adatta allo scopo anche con pochi dataset iniziali per impronte di guasto chiaramente definite e che presentano una ridotta variabilità.
 
 ## Ambiti di applicazione
-Lo strumento di ricerca guasti del presente lavoro può essere applicato in tutti gli scenari dell'industria manifatturiera per l'individuazione di errori di azionamenti complessi oppure in impianti complessi dove piu' parametri fisici, acquisiti sottoforma di segnali analogici, forniscono indicazioni circa lo stato dell'impianto, come ad esempio centrali di produzione dell'energia o in campo nautico nel monitoraggio della sala macchine di grandi imbarcazioni. Piu' avanti sarà presentato il caso studio, ovvero l'applicazione in campo manifatturiero.
+Lo strumento di ricerca guasti del presente lavoro può essere applicato in tutti gli scenari dell'industria manifatturiera per l'individuazione di errori di azionamenti complessi oppure in impianti complessi dove piu' parametri fisici, acquisiti sottoforma di segnali analogici, forniscono indicazioni circa lo stato dell'impianto, come ad esempio centrali di produzione dell'energia o in campo nautico nel monitoraggio della sala macchine di grandi imbarcazioni. Piu' avanti sarà presentato il [caso studio](#caso-studio), ovvero l'applicazione in campo manifatturiero.
 
 ## Descrizione generale del modello
 Il modello si basa sull’idea che gli stati di guasto di una macchina o di un impianto complesso possano essere associati ad un percorso descritto da una funzione come ad esempio la [spirale aurea](https://it.wikipedia.org/wiki/Spirale_aurea). Tale scelta, di notevole valenza didattica per le diverse implicazioni matematiche e storico-filosofiche ovvero con ricadute multidisciplinari, si è rilevata efficace anche da un punto di vista pratico stimolando al contempo la curiosità degli studenti.
@@ -55,7 +55,7 @@ Durante la fase di riconoscimento è valutata sul piano la posizione del nuovo d
 
 Nel caso di figura il modello propone al manutentore il video-tutorial relativo alla riparazione del guasto 3. Se la previsione non è confermata, il sistema propone il video-tutorial del guasto 2. In questo caso è possibile correggere i pesi addestrando il modello tenendo conto del nuovo scenario.
 
-In seguito è proposto il [Caso Studio](#caso-studio) ovvero l'attività condotta dagli studenti in Körber Tissue. L'azienda infatti ha organizzato una due giorni di prove mettendo a disposizione per gli studenti la linea pilota per le prove in situ.  
+In seguito è proposto il [caso studio](#caso-studio) ovvero l'attività condotta dagli studenti in Körber Tissue. L'azienda infatti ha organizzato una due giorni di prove mettendo a disposizione per gli studenti la linea pilota per le prove in situ.  
 
 ## Video di presentazione del progetto
 **under construction**
