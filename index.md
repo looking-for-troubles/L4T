@@ -255,5 +255,24 @@ Il programma operativo di riconoscimento guasti è stato realizzato per la prova
 </body>
 </html>
 
+## Rappresentazione visiva di alcuni dataset  
+Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado di riconoscere, si propone un videoquiz per il lettore realizzato con due matrici luminose a confronto che riproducono dataset simili. Il led luminosi sono indirizzabili e attraverso l'uso di un ESP32 programmato in microPyThon sono stati prodotte le sequenze dei bit in colore diverso
+
+<html lang="it"> 
+<body>
+    <div class="container">
+         <!-- finestra popup 3 -->
+        <a href="#x" class="overlay" id="win3"></a>
+        <div class="popup">
+            <div class="video">
+         <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
+		    <iframe width="640" height="320" src="https://youtube.com/embed/RsTeIh7Vxzw" ></iframe>
+            </div>
+            <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
+        </div>
+    </div>
+</body>
+</html>
+
 ## Conclusioni
 L'Azienda Körber Tissue Lucca ha messo a disposizione mezzi e personale tecnico per il progetto "L4T - Looking For Troubles". L'attività di due giorni sull'impianto pilota ha visto una preparazione che è iniziata già nel periodo estivo attraverso incontri online in videoconferenza tra i docenti degli istituti scolastici coinvolti ed i vari referenti tecnici Körber che si sono avvicendati nella fase organizzativa ed esecutiva finale. I docenti referenti del "Fermi-Giorgi" e "Galilei-Artiglio", hanno visto da subito interesse, partecipazione ed impegno al progetto. La considerazione ricevuta nonchè la condivisione dei vari momenti di progettualità ha permesso agli studenti di essere protagonisti con le proprie idee in una realtà manifatturiera che opera a livello internazionale.   
