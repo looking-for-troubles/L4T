@@ -256,7 +256,7 @@ Il programma operativo di riconoscimento guasti è stato realizzato per la prova
 </html>
 
 ## Rappresentazione visiva di alcuni dataset  
-Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado di riconoscere, si propone un videoquiz per il lettore realizzato con due matrici luminose a confronto che riproducono dataset simili. Il led luminosi sono indirizzabili e attraverso l'uso di un ESP32 programmato in microPyThon sono stati prodotte le sequenze dei bit in colore diverso
+Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado di riconoscere, si propone un videoquiz per il lettore realizzato con due matrici luminose a confronto che riproducono dataset simili. Il led luminosi sono indirizzabili e attraverso l'uso di un ESP32 programmato in microPyThon sono state prodotte le sequenze dei bit in colore diverso che rappresentano dinamicamente le impronte di guasto a confronto
 
 <html lang="it"> 
 <body>
