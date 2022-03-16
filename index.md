@@ -275,4 +275,5 @@ Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado
 </html>
 
 ## Conclusioni
+### in progress
 L'Azienda Körber Tissue Lucca ha messo a disposizione mezzi e personale tecnico per il progetto "L4T - Looking For Troubles". L'attività di due giorni sull'impianto pilota ha visto una preparazione che è iniziata già nel periodo estivo attraverso incontri online in videoconferenza tra i docenti degli istituti scolastici coinvolti ed i vari referenti tecnici Körber che si sono avvicendati nella fase organizzativa ed esecutiva finale. I docenti referenti del "Fermi-Giorgi" e "Galilei-Artiglio", hanno visto da subito interesse, partecipazione ed impegno al progetto. La considerazione ricevuta nonchè la condivisione dei vari momenti di progettualità ha permesso agli studenti di essere protagonisti con le proprie idee in una realtà manifatturiera che opera a livello internazionale.   
