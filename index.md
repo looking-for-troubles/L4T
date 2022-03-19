@@ -76,6 +76,10 @@ In seguito è proposto il [caso studio](#caso-studio) ovvero l'attività condott
 </body>
 </html>
 
+Programmi TIA Portal
+- per scaricare il programma di simulazione utilizzato in laboratorio per studio di fattibilità clicca [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_simulation)
+- per scaricare il programma operativo utilizzato in azienda Körber Tissue clicca [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_operating)
+
 ## Chatterbot con Telegram
 Per poter interagire con la chat del manutentore occorre aprire [Telegram](https://web.telegram.org/z/) e cercare il bot **@incercadiguai_bot**.
 E' possibile interagire con il bot attraverso domande generiche che all'occorrenza sono memorizzate dal bot stesso per poterle riutilizzare successivamente nella conversazione. In altri termini quando il bot impara nuove parole proverà a riutilizzarle nel tentativo di costruirsi un proprio lessico.
