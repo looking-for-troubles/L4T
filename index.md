@@ -77,7 +77,7 @@ In seguito è proposto il [caso studio](#caso-studio) ovvero l'attività condott
 </html>
 
 
-<span style="color:blue">Programmi TIA Portal</span>
+<span style="color:blue">## Programmi TIA Portal</span>
 - per scaricare il programma di simulazione utilizzato in laboratorio per studio di fattibilità clicca [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_simulation)
 - per scaricare il programma operativo utilizzato in azienda Körber Tissue clicca [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_operating)
 
