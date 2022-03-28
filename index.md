@@ -104,6 +104,10 @@ Digitando i numeri da 1 a 7, che semplicemente rappresentano appunto i codici di
 </body>
 </html>
 
+E' possibile accedere ai video anche da questa pagina cliccando sul relativo numero di guasto dell'elenco seguente:
+- [1](https://looking-for-troubles.github.io/g1/)
+- [2](https://looking-for-troubles.github.io/g2/)
+
 # Abbecedario matematico
 Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens.
 La descrizione degli oggetti utilizzati segue lo schema di figura partendo dagli ingressi o matrice di dataset, passando per la funzione logaritmica fino alla retroazione di aggiornamento dei pesi
