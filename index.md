@@ -242,7 +242,6 @@ Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento 
 A seguito dei risultati incorraggianti del programma di simulazione si è proceduto alla realizzazione del programma operativo descritto al paragrafo successivo
 
 ## Programma operativo di riconoscimento guasti  
-**under construction**
 Il programma operativo di riconoscimento guasti è stato realizzato per la prova in situ sull'impianto Körber Tissue. Per questa attività pratica l'azienda ha predisposto un indirizzo IP ed un collegamento GSD oltre che ad uno spazio di lavoro che ha consentito agli studenti di seguire le prove comodamente in totale sicurezza. Il programma operativo redatto con Tia Portal V16 è scaricabile [qui](https://github.com/looking-for-troubles/L4T/tree/gh-pages/TIA_operating). Il funzionamento generale del programma è descritto nel video successivo
 
 <html lang="it"> 
@@ -253,13 +252,15 @@ Il programma operativo di riconoscimento guasti è stato realizzato per la prova
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/5v5LbZU4Pk4" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/6JoK_H_QakI" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
     </div>
 </body>
 </html>
+
+I risultati ottenuti con il software operativo sono riportati nelle conclusioni finali del presente documento
 
 ## Rappresentazione visiva di alcuni dataset  
 Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado di riconoscere, si propone un videoquiz per il lettore realizzato con due matrici luminose a confronto che riproducono dataset simili. Il led luminosi sono indirizzabili e attraverso l'uso di un ESP32 programmato in microPython sono state prodotte le sequenze dei bit in colore diverso che rappresentano dinamicamente le impronte di guasto a confronto
