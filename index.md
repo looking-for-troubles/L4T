@@ -107,6 +107,10 @@ Digitando i numeri da 1 a 7, che semplicemente rappresentano appunto i codici di
 E' possibile accedere ai video anche da questa pagina cliccando sul relativo numero di guasto dell'elenco seguente:
 - [1](https://looking-for-troubles.github.io/g1/)
 - [2](https://looking-for-troubles.github.io/g2/)
+- [3](https://looking-for-troubles.github.io/g3/)
+- [4](https://looking-for-troubles.github.io/g4/)
+- [5](https://looking-for-troubles.github.io/g5/) e [6](https://looking-for-troubles.github.io/g6/) 
+- [7](https://looking-for-troubles.github.io/g7/)
 
 # Abbecedario matematico
 Di seguito si riassumono alcuni concetti fondamentali utilizzati nella definizione del modello matematico caricato nel PLC S71500 Siemens.
