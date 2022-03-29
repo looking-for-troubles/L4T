@@ -58,8 +58,6 @@ Nel caso di figura il modello propone al manutentore il video-tutorial relativo 
 In seguito è proposto il [caso studio](#caso-studio) ovvero l'attività condotta dagli studenti in Körber Tissue. L'azienda infatti ha organizzato una due giorni di prove mettendo a disposizione per gli studenti la linea pilota per le prove in situ.  
 
 ## Video di presentazione del progetto
-**under construction**
-
 <html lang="it"> 
 <body>
     <div class="container">
@@ -68,7 +66,7 @@ In seguito è proposto il [caso studio](#caso-studio) ovvero l'attività condott
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/jat2C_UBPgM" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/-t2Ng5Auh74" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
