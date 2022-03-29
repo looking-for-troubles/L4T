@@ -66,7 +66,7 @@ In seguito è proposto il [caso studio](#caso-studio) ovvero l'attività condott
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/-t2Ng5Auh74" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/ciXYPWPF-EE" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
