@@ -214,7 +214,7 @@ L'alta professionalità dell'azienda Körber combinata con la professionalità e
 ## Obiettivo del caso studio
 A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
 Tale sezione di impianto prende il nome di incollatrice. Si tratta di una parte assai complessa ed innovativa della linea Pilota che svolge la funzione di incollaggio dei prodotti con performance uniche nel suo genere.
-Preme qui ribadire quanto già detto all'inizio del presente lavoro, ovvero che con il termine guasto si indendono anche i malfunzionamenti di un processo che possono portare ad un difetto del prodotto. Nello specifico l'incollatrice attraverso un complesso sistema di posizionamento con rulli controruotanti ed ugelli ad aria, è in grado di incollare il lembo sottile un rotolo di carta al secondo. Di seguito sono descritte sommariamente le fasi principali che prevedono:
+Preme qui ribadire quanto già detto all'inizio del presente lavoro, ovvero che con il termine guasto si indendono anche i malfunzionamenti di un processo che possono portare ad un difetto del prodotto. Nello specifico l'incollatrice attraverso un complesso sistema di posizionamento con rulli controruotanti ed ugelli ad aria, è in grado di incollare il lembo sottile di un rotolo di carta al secondo. Di seguito sono descritte sommariamente le fasi principali che prevedono:
 - l'ingresso del rotolo nell'incollatrice;
 - il suo posizionamento;
 - il distacco del lembo attraverso l'aria soffiata per un certo tempo e con una certa lunghezza;
