@@ -10,7 +10,9 @@ Questo lavoro è stato ispirato dalla figura di un illustre toscano, uno dei pi�
 
 
 ## Finalità
-Il presente lavoro ha come finalità l’individuazione rapida di guasti di una macchina o di un impianto complesso e di fornire al manutentore dei video-tutorials lanciati direttamente su smartphone o su altri device in dotazione in base al codice guasto comunicato dal PLC S7-1500.
+Il presente lavoro ha come finalità l’individuazione rapida di guasti e/o malfunzionamenti di una macchina o di un impianto complesso e di fornire al manutentore dei video-tutorials lanciati direttamente su smartphone o su altri device in dotazione in base al codice guasto comunicato dal PLC S7-1500.
+Può accadere infatti, come descritto nel caso studio, che un prodotto sia affetto da difetti a seguito di un malfunzionamento di un processo che non necessariamente è segnalabile attreverso un guasto vero e proprio inteso come intervento di una protezione o di un relè ovvero di un fermo macchina. Questo tipo di  malfunzionamento può essere individuabile attraverso l'informazione prodotta dalla catena di sensori esistenti, i cui segnali forniscono una "impronta" (o impronta dell'evento guasto) che può essere riconosciuta da un sistema esperto quale una rete neurale che associa appunto al malfunzionamento, alla particolare impronta che differisce da quella di corretto funzionamento, il difetto del prodotto. Per semplicità descrittiva chiameremo di seguito i malfunzionamenti con l'accezione piu' generica di guasto, anche se come già ribadito non necessariamente tali eventi comportano la rottura o il fermo macchina oppure il blocco di un processo produttivo.
+
 Operativamente la localizzazione degli stati di guasto avviene sul piano attraverso coordinate polari che descrivono una particolare spirale logaritmica. Tale traiettoria opportunamente supportata da informazioni provenienti da sensori specifici, potrebbe descrivere lo stato di funzionamento della macchina utile per la manutenzione predittiva.
 Piu’ semplicemente la spirale logaritmica si adatta allo scopo anche con pochi dataset iniziali per impronte di guasto chiaramente definite e che presentano una ridotta variabilità.
 
@@ -212,7 +214,18 @@ L'alta professionalità dell'azienda Körber combinata con la professionalità e
 ## Obiettivo del caso studio
 A seguito di incontri online ed in azienda, è stata individuata una sezione di impianto su cui testare lo strumento L4T per il riconoscimento guasti.
 Tale sezione di impianto prende il nome di incollatrice. Si tratta di una parte assai complessa ed innovativa della linea Pilota che svolge la funzione di incollaggio dei prodotti con performance uniche nel suo genere.
-Questa parte di impianto utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto per le prove in situ con gli studenti.
+Preme qui ribadire quanto già detto all'inizio del presente lavoro, ovvero che con il termine guasto si indendono anche i malfunzionamenti di un processo che possono portare ad un difetto del prodotto. Nello specifico l'incollatrice attraverso un complesso sistema di posizionamento con rulli controruotanti ed ugelli ad aria, è in grado di incollare il lembo sottile un rotolo di carta al secondo. Di seguito sono descritte sommariamente le fasi principali che prevedono:
+- l'ingresso del rotolo nell'incollatrice;
+- il suo posizionamento;
+- il distacco del lembo attraverso l'aria soffiata per un certo tempo e con una certa lunghezza;
+- l'attivazione di una lama imbevuta di colla da trasferire al lembo;
+- la rotazione del rotolo su se stesso per l'incollaggio del lembo;
+- il trasferimento del rotolo per il confezionamento.
+
+In ciascuna di queste macro-fasi è possibile che si verifichi un "evento indesiderato" come ad esempio l'eccessiva o la ridotta lunghezza di distacco del lembo o la quantità di colla presente sulla lama, per ottenere un prodotto che non risponde allo standard di qualità richiesto.
+Vedremo di seguito che questi scostamenti rispetto allo standard, sono stati rilevati attraverso una analisi dei segnali dei sensori presenti raccolti in un opportuno dataset di ingresso.
+
+L'incollatrice utilizza *interamente* tecnologia Siemens compreso i PLC S7 1500 per la regolazione ed il controllo. In questo scenario favorevole si è pensato di creare un nuovo indirizzo IP da dedicare al "PLC L4T" in modo da integrarlo a tutti gli effetti nella rete dell'impianto per le prove in situ con gli studenti.
 A tal fine l'azienda ha predisposto uno spazio fisico attrezzato di fronte alla sezione oggetto di studio, con posti a sedere e un banco con alimentazione elettrica e presa di rete su cui gli studenti ed i docenti potessero svolgere i test in piena sicurezza.
 
 ## Programma di simulazione per lo studio preliminare di fattibilità
