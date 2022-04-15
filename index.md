@@ -301,7 +301,7 @@ Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado
 </html>
 
 ## Conclusioni
-La prova in azienda è stata realizzata impostando due campagne di misura: la prima per tipologia di guasto finalizzata all'addestramento, la seconda generando stati di guasto random da riconoscere. In pratica il personale tecnico Körber, nella propria postazione a debita distanza da quella degli studenti per non influenzare la raccolta dati, ha generato, nella prima campagna, i guasti secondo la sequenza nota della fase di addestramento. Una volta addestrato il modello si è proceduto nella seconda campagna di prove in cui sono stati generati guasti random per il riconoscimento. 
+La prova in azienda è stata realizzata impostando due campagne di misura: la prima per tipologia di guasto finalizzata all'addestramento, la seconda generando stati di malfunzionamneto da riconoscere. In pratica il personale tecnico Körber, nella propria postazione a debita distanza da quella degli studenti per non influenzare la raccolta dati, ha indotto, nella prima campagna, i guasti secondo la sequenza nota della fase di addestramento. Una volta addestrato il modello si è proceduto nella seconda campagna di prove in cui sono stati provocati malfunzionamenti random sull'incollatrice per il riconoscimento. 
 
 La prova sulla macchina incollatrice, con riferimento al [dataset](https://github.com/looking-for-troubles/L4T/tree/gh-pages/dataset), ha generato le seguenti risposte:
 - il guasto numero 1 è stato riconosciuto dal modello 5 volte su 5 prove;
