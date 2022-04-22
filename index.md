@@ -271,7 +271,7 @@ Il programma operativo di riconoscimento guasti è stato realizzato per la prova
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/6JoK_H_QakI" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/Y4LRWYFlZW8" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
