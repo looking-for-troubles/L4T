@@ -250,7 +250,7 @@ Gli studenti coinvolti nel progetto hanno svolto la fase di primo addestramento 
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/5v5LbZU4Pk4" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/E8diqDkqAOk" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
