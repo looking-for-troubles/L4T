@@ -292,7 +292,7 @@ Per rendere meglio l'idea di che cosa il modello matematico deve essere in grado
         <div class="popup">
             <div class="video">
          <!-- il link you tube deve essere selezionato dal link di rete lasciando la cartella embed -->
-		    <iframe width="640" height="320" src="https://youtube.com/embed/RsTeIh7Vxzw" ></iframe>
+		    <iframe width="640" height="320" src="https://youtube.com/embed/WaBUXYcjtmE" ></iframe>
             </div>
             <a class="close" title="Chiudere" href="modal.html" onclick = "modal.html(); return false;"></a>
         </div>
